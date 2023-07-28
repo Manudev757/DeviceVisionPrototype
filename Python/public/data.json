@@ -1,0 +1,6011 @@
+{
+  "column": [
+    "Unnamed: 0",
+    "voltage",
+    "current",
+    "power"
+  ],
+  "content": [
+    {
+      "Unnamed: 0": 0,
+      "voltage": 88,
+      "current": 50,
+      "power": 4387
+    },
+    {
+      "Unnamed: 0": 1,
+      "voltage": 61,
+      "current": 50,
+      "power": 3072
+    },
+    {
+      "Unnamed: 0": 2,
+      "voltage": 43,
+      "current": 50,
+      "power": 2179
+    },
+    {
+      "Unnamed: 0": 3,
+      "voltage": 70,
+      "current": 50,
+      "power": 3505
+    },
+    {
+      "Unnamed: 0": 4,
+      "voltage": 95,
+      "current": 50,
+      "power": 4529
+    },
+    {
+      "Unnamed: 0": 5,
+      "voltage": 12,
+      "current": 50,
+      "power": 608
+    },
+    {
+      "Unnamed: 0": 6,
+      "voltage": 52,
+      "current": 50,
+      "power": 2615
+    },
+    {
+      "Unnamed: 0": 7,
+      "voltage": 75,
+      "current": 50,
+      "power": 3753
+    },
+    {
+      "Unnamed: 0": 8,
+      "voltage": 81,
+      "current": 50,
+      "power": 4032
+    },
+    {
+      "Unnamed: 0": 9,
+      "voltage": 96,
+      "current": 50,
+      "power": 4815
+    },
+    {
+      "Unnamed: 0": 10,
+      "voltage": 76,
+      "current": 50,
+      "power": 3788
+    },
+    {
+      "Unnamed: 0": 11,
+      "voltage": 71,
+      "current": 50,
+      "power": 3541
+    },
+    {
+      "Unnamed: 0": 12,
+      "voltage": 69,
+      "current": 50,
+      "power": 3457
+    },
+    {
+      "Unnamed: 0": 13,
+      "voltage": 10,
+      "current": 50,
+      "power": 513
+    },
+    {
+      "Unnamed: 0": 14,
+      "voltage": 51,
+      "current": 50,
+      "power": 2526
+    },
+    {
+      "Unnamed: 0": 15,
+      "voltage": 65,
+      "current": 50,
+      "power": 3265
+    },
+    {
+      "Unnamed: 0": 16,
+      "voltage": 48,
+      "current": 50,
+      "power": 2406
+    },
+    {
+      "Unnamed: 0": 17,
+      "voltage": 93,
+      "current": 50,
+      "power": 4640
+    },
+    {
+      "Unnamed: 0": 18,
+      "voltage": 97,
+      "current": 50,
+      "power": 4849
+    },
+    {
+      "Unnamed: 0": 19,
+      "voltage": 35,
+      "current": 50,
+      "power": 1747
+    },
+    {
+      "Unnamed: 0": 20,
+      "voltage": 78,
+      "current": 50,
+      "power": 3896
+    },
+    {
+      "Unnamed: 0": 21,
+      "voltage": 77,
+      "current": 50,
+      "power": 3875
+    },
+    {
+      "Unnamed: 0": 22,
+      "voltage": 56,
+      "current": 50,
+      "power": 2783
+    },
+    {
+      "Unnamed: 0": 23,
+      "voltage": 91,
+      "current": 50,
+      "power": 4575
+    },
+    {
+      "Unnamed: 0": 24,
+      "voltage": 39,
+      "current": 50,
+      "power": 1958
+    },
+    {
+      "Unnamed: 0": 25,
+      "voltage": 16,
+      "current": 50,
+      "power": 829
+    },
+    {
+      "Unnamed: 0": 26,
+      "voltage": 42,
+      "current": 50,
+      "power": 2130
+    },
+    {
+      "Unnamed: 0": 27,
+      "voltage": 12,
+      "current": 50,
+      "power": 611
+    },
+    {
+      "Unnamed: 0": 28,
+      "voltage": 56,
+      "current": 50,
+      "power": 2787
+    },
+    {
+      "Unnamed: 0": 29,
+      "voltage": 100,
+      "current": 50,
+      "power": 4998
+    },
+    {
+      "Unnamed: 0": 30,
+      "voltage": 24,
+      "current": 50,
+      "power": 1224
+    },
+    {
+      "Unnamed: 0": 31,
+      "voltage": 87,
+      "current": 50,
+      "power": 4333
+    },
+    {
+      "Unnamed: 0": 32,
+      "voltage": 82,
+      "current": 50,
+      "power": 4099
+    },
+    {
+      "Unnamed: 0": 33,
+      "voltage": 47,
+      "current": 50,
+      "power": 2352
+    },
+    {
+      "Unnamed: 0": 34,
+      "voltage": 76,
+      "current": 50,
+      "power": 3818
+    },
+    {
+      "Unnamed: 0": 35,
+      "voltage": 73,
+      "current": 50,
+      "power": 3665
+    },
+    {
+      "Unnamed: 0": 36,
+      "voltage": 36,
+      "current": 50,
+      "power": 1782
+    },
+    {
+      "Unnamed: 0": 37,
+      "voltage": 53,
+      "current": 50,
+      "power": 2640
+    },
+    {
+      "Unnamed: 0": 38,
+      "voltage": 49,
+      "current": 50,
+      "power": 2428
+    },
+    {
+      "Unnamed: 0": 39,
+      "voltage": 95,
+      "current": 50,
+      "power": 4723
+    },
+    {
+      "Unnamed: 0": 40,
+      "voltage": 22,
+      "current": 50,
+      "power": 1100
+    },
+    {
+      "Unnamed: 0": 41,
+      "voltage": 89,
+      "current": 50,
+      "power": 4441
+    },
+    {
+      "Unnamed: 0": 42,
+      "voltage": 30,
+      "current": 50,
+      "power": 1527
+    },
+    {
+      "Unnamed: 0": 43,
+      "voltage": 38,
+      "current": 50,
+      "power": 1891
+    },
+    {
+      "Unnamed: 0": 44,
+      "voltage": 42,
+      "current": 50,
+      "power": 2099
+    },
+    {
+      "Unnamed: 0": 45,
+      "voltage": 21,
+      "current": 50,
+      "power": 1052
+    },
+    {
+      "Unnamed: 0": 46,
+      "voltage": 56,
+      "current": 50,
+      "power": 2786
+    },
+    {
+      "Unnamed: 0": 47,
+      "voltage": 93,
+      "current": 50,
+      "power": 4646
+    },
+    {
+      "Unnamed: 0": 48,
+      "voltage": 36,
+      "current": 50,
+      "power": 1822
+    },
+    {
+      "Unnamed: 0": 49,
+      "voltage": 53,
+      "current": 50,
+      "power": 2662
+    },
+    {
+      "Unnamed: 0": 50,
+      "voltage": 50,
+      "current": 50,
+      "power": 2522
+    },
+    {
+      "Unnamed: 0": 51,
+      "voltage": 68,
+      "current": 50,
+      "power": 3411
+    },
+    {
+      "Unnamed: 0": 52,
+      "voltage": 89,
+      "current": 50,
+      "power": 4445
+    },
+    {
+      "Unnamed: 0": 53,
+      "voltage": 39,
+      "current": 50,
+      "power": 1978
+    },
+    {
+      "Unnamed: 0": 54,
+      "voltage": 80,
+      "current": 50,
+      "power": 3975
+    },
+    {
+      "Unnamed: 0": 55,
+      "voltage": 85,
+      "current": 50,
+      "power": 4236
+    },
+    {
+      "Unnamed: 0": 56,
+      "voltage": 79,
+      "current": 50,
+      "power": 3931
+    },
+    {
+      "Unnamed: 0": 57,
+      "voltage": 32,
+      "current": 50,
+      "power": 1596
+    },
+    {
+      "Unnamed: 0": 58,
+      "voltage": 90,
+      "current": 50,
+      "power": 4503
+    },
+    {
+      "Unnamed: 0": 59,
+      "voltage": 74,
+      "current": 50,
+      "power": 3681
+    },
+    {
+      "Unnamed: 0": 60,
+      "voltage": 90,
+      "current": 50,
+      "power": 4489
+    },
+    {
+      "Unnamed: 0": 61,
+      "voltage": 37,
+      "current": 50,
+      "power": 1877
+    },
+    {
+      "Unnamed: 0": 62,
+      "voltage": 11,
+      "current": 50,
+      "power": 548
+    },
+    {
+      "Unnamed: 0": 63,
+      "voltage": 47,
+      "current": 50,
+      "power": 2363
+    },
+    {
+      "Unnamed: 0": 64,
+      "voltage": 69,
+      "current": 50,
+      "power": 3465
+    },
+    {
+      "Unnamed: 0": 65,
+      "voltage": 80,
+      "current": 50,
+      "power": 4009
+    },
+    {
+      "Unnamed: 0": 66,
+      "voltage": 62,
+      "current": 50,
+      "power": 3117
+    },
+    {
+      "Unnamed: 0": 67,
+      "voltage": 41,
+      "current": 50,
+      "power": 2067
+    },
+    {
+      "Unnamed: 0": 68,
+      "voltage": 98,
+      "current": 50,
+      "power": 4890
+    },
+    {
+      "Unnamed: 0": 69,
+      "voltage": 32,
+      "current": 50,
+      "power": 1606
+    },
+    {
+      "Unnamed: 0": 70,
+      "voltage": 13,
+      "current": 50,
+      "power": 633
+    },
+    {
+      "Unnamed: 0": 71,
+      "voltage": 57,
+      "current": 50,
+      "power": 2868
+    },
+    {
+      "Unnamed: 0": 72,
+      "voltage": 26,
+      "current": 50,
+      "power": 1312
+    },
+    {
+      "Unnamed: 0": 73,
+      "voltage": 63,
+      "current": 50,
+      "power": 3135
+    },
+    {
+      "Unnamed: 0": 74,
+      "voltage": 42,
+      "current": 50,
+      "power": 2128
+    },
+    {
+      "Unnamed: 0": 75,
+      "voltage": 62,
+      "current": 50,
+      "power": 2691
+    },
+    {
+      "Unnamed: 0": 76,
+      "voltage": 30,
+      "current": 50,
+      "power": 1486
+    },
+    {
+      "Unnamed: 0": 77,
+      "voltage": 18,
+      "current": 50,
+      "power": 914
+    },
+    {
+      "Unnamed: 0": 78,
+      "voltage": 14,
+      "current": 50,
+      "power": 708
+    },
+    {
+      "Unnamed: 0": 79,
+      "voltage": 37,
+      "current": 50,
+      "power": 1845
+    },
+    {
+      "Unnamed: 0": 80,
+      "voltage": 17,
+      "current": 50,
+      "power": 868
+    },
+    {
+      "Unnamed: 0": 81,
+      "voltage": 72,
+      "current": 50,
+      "power": 3601
+    },
+    {
+      "Unnamed: 0": 82,
+      "voltage": 76,
+      "current": 50,
+      "power": 3771
+    },
+    {
+      "Unnamed: 0": 83,
+      "voltage": 70,
+      "current": 50,
+      "power": 3480
+    },
+    {
+      "Unnamed: 0": 84,
+      "voltage": 73,
+      "current": 50,
+      "power": 3679
+    },
+    {
+      "Unnamed: 0": 85,
+      "voltage": 74,
+      "current": 50,
+      "power": 3692
+    },
+    {
+      "Unnamed: 0": 86,
+      "voltage": 51,
+      "current": 50,
+      "power": 2578
+    },
+    {
+      "Unnamed: 0": 87,
+      "voltage": 35,
+      "current": 50,
+      "power": 1747
+    },
+    {
+      "Unnamed: 0": 88,
+      "voltage": 93,
+      "current": 50,
+      "power": 4678
+    },
+    {
+      "Unnamed: 0": 89,
+      "voltage": 67,
+      "current": 50,
+      "power": 3377
+    },
+    {
+      "Unnamed: 0": 90,
+      "voltage": 13,
+      "current": 50,
+      "power": 667
+    },
+    {
+      "Unnamed: 0": 91,
+      "voltage": 11,
+      "current": 50,
+      "power": 526
+    },
+    {
+      "Unnamed: 0": 92,
+      "voltage": 85,
+      "current": 50,
+      "power": 4221
+    },
+    {
+      "Unnamed: 0": 93,
+      "voltage": 23,
+      "current": 50,
+      "power": 1132
+    },
+    {
+      "Unnamed: 0": 94,
+      "voltage": 41,
+      "current": 50,
+      "power": 2061
+    },
+    {
+      "Unnamed: 0": 95,
+      "voltage": 38,
+      "current": 50,
+      "power": 1896
+    },
+    {
+      "Unnamed: 0": 96,
+      "voltage": 60,
+      "current": 50,
+      "power": 3024
+    },
+    {
+      "Unnamed: 0": 97,
+      "voltage": 30,
+      "current": 50,
+      "power": 1498
+    },
+    {
+      "Unnamed: 0": 98,
+      "voltage": 95,
+      "current": 50,
+      "power": 4768
+    },
+    {
+      "Unnamed: 0": 99,
+      "voltage": 14,
+      "current": 50,
+      "power": 715
+    },
+    {
+      "Unnamed: 0": 100,
+      "voltage": 47,
+      "current": 50,
+      "power": 2338
+    },
+    {
+      "Unnamed: 0": 101,
+      "voltage": 31,
+      "current": 50,
+      "power": 1535
+    },
+    {
+      "Unnamed: 0": 102,
+      "voltage": 51,
+      "current": 50,
+      "power": 2523
+    },
+    {
+      "Unnamed: 0": 103,
+      "voltage": 26,
+      "current": 50,
+      "power": 1321
+    },
+    {
+      "Unnamed: 0": 104,
+      "voltage": 64,
+      "current": 50,
+      "power": 3206
+    },
+    {
+      "Unnamed: 0": 105,
+      "voltage": 71,
+      "current": 50,
+      "power": 3544
+    },
+    {
+      "Unnamed: 0": 106,
+      "voltage": 24,
+      "current": 50,
+      "power": 1206
+    },
+    {
+      "Unnamed: 0": 107,
+      "voltage": 75,
+      "current": 50,
+      "power": 3764
+    },
+    {
+      "Unnamed: 0": 108,
+      "voltage": 31,
+      "current": 50,
+      "power": 1531
+    },
+    {
+      "Unnamed: 0": 109,
+      "voltage": 61,
+      "current": 50,
+      "power": 3064
+    },
+    {
+      "Unnamed: 0": 110,
+      "voltage": 89,
+      "current": 50,
+      "power": 4459
+    },
+    {
+      "Unnamed: 0": 111,
+      "voltage": 91,
+      "current": 50,
+      "power": 4559
+    },
+    {
+      "Unnamed: 0": 112,
+      "voltage": 85,
+      "current": 50,
+      "power": 4248
+    },
+    {
+      "Unnamed: 0": 113,
+      "voltage": 54,
+      "current": 50,
+      "power": 2697
+    },
+    {
+      "Unnamed: 0": 114,
+      "voltage": 44,
+      "current": 50,
+      "power": 1728
+    },
+    {
+      "Unnamed: 0": 115,
+      "voltage": 26,
+      "current": 50,
+      "power": 1273
+    },
+    {
+      "Unnamed: 0": 116,
+      "voltage": 28,
+      "current": 50,
+      "power": 1400
+    },
+    {
+      "Unnamed: 0": 117,
+      "voltage": 28,
+      "current": 50,
+      "power": 1392
+    },
+    {
+      "Unnamed: 0": 118,
+      "voltage": 66,
+      "current": 50,
+      "power": 3319
+    },
+    {
+      "Unnamed: 0": 119,
+      "voltage": 30,
+      "current": 50,
+      "power": 1528
+    },
+    {
+      "Unnamed: 0": 120,
+      "voltage": 13,
+      "current": 50,
+      "power": 636
+    },
+    {
+      "Unnamed: 0": 121,
+      "voltage": 13,
+      "current": 50,
+      "power": 626
+    },
+    {
+      "Unnamed: 0": 122,
+      "voltage": 83,
+      "current": 50,
+      "power": 4138
+    },
+    {
+      "Unnamed: 0": 123,
+      "voltage": 84,
+      "current": 50,
+      "power": 4211
+    },
+    {
+      "Unnamed: 0": 124,
+      "voltage": 94,
+      "current": 50,
+      "power": 4702
+    },
+    {
+      "Unnamed: 0": 125,
+      "voltage": 42,
+      "current": 50,
+      "power": 2080
+    },
+    {
+      "Unnamed: 0": 126,
+      "voltage": 99,
+      "current": 50,
+      "power": 4937
+    },
+    {
+      "Unnamed: 0": 127,
+      "voltage": 67,
+      "current": 50,
+      "power": 3323
+    },
+    {
+      "Unnamed: 0": 128,
+      "voltage": 22,
+      "current": 50,
+      "power": 1108
+    },
+    {
+      "Unnamed: 0": 129,
+      "voltage": 71,
+      "current": 50,
+      "power": 3549
+    },
+    {
+      "Unnamed: 0": 130,
+      "voltage": 20,
+      "current": 50,
+      "power": 1002
+    },
+    {
+      "Unnamed: 0": 131,
+      "voltage": 94,
+      "current": 50,
+      "power": 4713
+    },
+    {
+      "Unnamed: 0": 132,
+      "voltage": 79,
+      "current": 50,
+      "power": 3960
+    },
+    {
+      "Unnamed: 0": 133,
+      "voltage": 62,
+      "current": 50,
+      "power": 3121
+    },
+    {
+      "Unnamed: 0": 134,
+      "voltage": 16,
+      "current": 50,
+      "power": 781
+    },
+    {
+      "Unnamed: 0": 135,
+      "voltage": 31,
+      "current": 50,
+      "power": 1572
+    },
+    {
+      "Unnamed: 0": 136,
+      "voltage": 75,
+      "current": 50,
+      "power": 3771
+    },
+    {
+      "Unnamed: 0": 137,
+      "voltage": 33,
+      "current": 50,
+      "power": 1675
+    },
+    {
+      "Unnamed: 0": 138,
+      "voltage": 92,
+      "current": 50,
+      "power": 4578
+    },
+    {
+      "Unnamed: 0": 139,
+      "voltage": 65,
+      "current": 50,
+      "power": 3261
+    },
+    {
+      "Unnamed: 0": 140,
+      "voltage": 58,
+      "current": 50,
+      "power": 2901
+    },
+    {
+      "Unnamed: 0": 141,
+      "voltage": 10,
+      "current": 50,
+      "power": 482
+    },
+    {
+      "Unnamed: 0": 142,
+      "voltage": 45,
+      "current": 50,
+      "power": 2239
+    },
+    {
+      "Unnamed: 0": 143,
+      "voltage": 57,
+      "current": 50,
+      "power": 2864
+    },
+    {
+      "Unnamed: 0": 144,
+      "voltage": 14,
+      "current": 50,
+      "power": 715
+    },
+    {
+      "Unnamed: 0": 145,
+      "voltage": 66,
+      "current": 50,
+      "power": 3270
+    },
+    {
+      "Unnamed: 0": 146,
+      "voltage": 33,
+      "current": 50,
+      "power": 1628
+    },
+    {
+      "Unnamed: 0": 147,
+      "voltage": 93,
+      "current": 50,
+      "power": 4648
+    },
+    {
+      "Unnamed: 0": 148,
+      "voltage": 42,
+      "current": 50,
+      "power": 2083
+    },
+    {
+      "Unnamed: 0": 149,
+      "voltage": 69,
+      "current": 50,
+      "power": 3421
+    },
+    {
+      "Unnamed: 0": 150,
+      "voltage": 58,
+      "current": 50,
+      "power": 2926
+    },
+    {
+      "Unnamed: 0": 151,
+      "voltage": 57,
+      "current": 50,
+      "power": 2875
+    },
+    {
+      "Unnamed: 0": 152,
+      "voltage": 21,
+      "current": 50,
+      "power": 1043
+    },
+    {
+      "Unnamed: 0": 153,
+      "voltage": 87,
+      "current": 50,
+      "power": 4324
+    },
+    {
+      "Unnamed: 0": 154,
+      "voltage": 48,
+      "current": 50,
+      "power": 2382
+    },
+    {
+      "Unnamed: 0": 155,
+      "voltage": 59,
+      "current": 50,
+      "power": 2954
+    },
+    {
+      "Unnamed: 0": 156,
+      "voltage": 20,
+      "current": 50,
+      "power": 1020
+    },
+    {
+      "Unnamed: 0": 157,
+      "voltage": 92,
+      "current": 50,
+      "power": 4574
+    },
+    {
+      "Unnamed: 0": 158,
+      "voltage": 76,
+      "current": 50,
+      "power": 3809
+    },
+    {
+      "Unnamed: 0": 159,
+      "voltage": 37,
+      "current": 50,
+      "power": 1820
+    },
+    {
+      "Unnamed: 0": 160,
+      "voltage": 44,
+      "current": 50,
+      "power": 2173
+    },
+    {
+      "Unnamed: 0": 161,
+      "voltage": 31,
+      "current": 50,
+      "power": 1576
+    },
+    {
+      "Unnamed: 0": 162,
+      "voltage": 13,
+      "current": 50,
+      "power": 642
+    },
+    {
+      "Unnamed: 0": 163,
+      "voltage": 63,
+      "current": 50,
+      "power": 3135
+    },
+    {
+      "Unnamed: 0": 164,
+      "voltage": 73,
+      "current": 50,
+      "power": 3624
+    },
+    {
+      "Unnamed: 0": 165,
+      "voltage": 35,
+      "current": 50,
+      "power": 1743
+    },
+    {
+      "Unnamed: 0": 166,
+      "voltage": 82,
+      "current": 50,
+      "power": 4078
+    },
+    {
+      "Unnamed: 0": 167,
+      "voltage": 44,
+      "current": 50,
+      "power": 2192
+    },
+    {
+      "Unnamed: 0": 168,
+      "voltage": 47,
+      "current": 50,
+      "power": 2328
+    },
+    {
+      "Unnamed: 0": 169,
+      "voltage": 44,
+      "current": 50,
+      "power": 2177
+    },
+    {
+      "Unnamed: 0": 170,
+      "voltage": 38,
+      "current": 50,
+      "power": 1887
+    },
+    {
+      "Unnamed: 0": 171,
+      "voltage": 65,
+      "current": 50,
+      "power": 3232
+    },
+    {
+      "Unnamed: 0": 172,
+      "voltage": 44,
+      "current": 50,
+      "power": 2219
+    },
+    {
+      "Unnamed: 0": 173,
+      "voltage": 17,
+      "current": 50,
+      "power": 830
+    },
+    {
+      "Unnamed: 0": 174,
+      "voltage": 80,
+      "current": 50,
+      "power": 4006
+    },
+    {
+      "Unnamed: 0": 175,
+      "voltage": 35,
+      "current": 50,
+      "power": 1750
+    },
+    {
+      "Unnamed: 0": 176,
+      "voltage": 92,
+      "current": 50,
+      "power": 4599
+    },
+    {
+      "Unnamed: 0": 177,
+      "voltage": 13,
+      "current": 50,
+      "power": 644
+    },
+    {
+      "Unnamed: 0": 178,
+      "voltage": 19,
+      "current": 50,
+      "power": 946
+    },
+    {
+      "Unnamed: 0": 179,
+      "voltage": 86,
+      "current": 50,
+      "power": 4294
+    },
+    {
+      "Unnamed: 0": 180,
+      "voltage": 53,
+      "current": 50,
+      "power": 2632
+    },
+    {
+      "Unnamed: 0": 181,
+      "voltage": 59,
+      "current": 50,
+      "power": 2937
+    },
+    {
+      "Unnamed: 0": 182,
+      "voltage": 58,
+      "current": 50,
+      "power": 2871
+    },
+    {
+      "Unnamed: 0": 183,
+      "voltage": 43,
+      "current": 50,
+      "power": 2168
+    },
+    {
+      "Unnamed: 0": 184,
+      "voltage": 52,
+      "current": 50,
+      "power": 2613
+    },
+    {
+      "Unnamed: 0": 185,
+      "voltage": 94,
+      "current": 50,
+      "power": 4724
+    },
+    {
+      "Unnamed: 0": 186,
+      "voltage": 77,
+      "current": 50,
+      "power": 3834
+    },
+    {
+      "Unnamed: 0": 187,
+      "voltage": 59,
+      "current": 50,
+      "power": 2941
+    },
+    {
+      "Unnamed: 0": 188,
+      "voltage": 28,
+      "current": 50,
+      "power": 1393
+    },
+    {
+      "Unnamed: 0": 189,
+      "voltage": 56,
+      "current": 50,
+      "power": 2788
+    },
+    {
+      "Unnamed: 0": 190,
+      "voltage": 83,
+      "current": 50,
+      "power": 4178
+    },
+    {
+      "Unnamed: 0": 191,
+      "voltage": 91,
+      "current": 50,
+      "power": 4539
+    },
+    {
+      "Unnamed: 0": 192,
+      "voltage": 29,
+      "current": 50,
+      "power": 1445
+    },
+    {
+      "Unnamed: 0": 193,
+      "voltage": 51,
+      "current": 50,
+      "power": 2544
+    },
+    {
+      "Unnamed: 0": 194,
+      "voltage": 27,
+      "current": 50,
+      "power": 1234
+    },
+    {
+      "Unnamed: 0": 195,
+      "voltage": 31,
+      "current": 50,
+      "power": 1522
+    },
+    {
+      "Unnamed: 0": 196,
+      "voltage": 72,
+      "current": 50,
+      "power": 3610
+    },
+    {
+      "Unnamed: 0": 197,
+      "voltage": 69,
+      "current": 50,
+      "power": 3466
+    },
+    {
+      "Unnamed: 0": 198,
+      "voltage": 89,
+      "current": 50,
+      "power": 4457
+    },
+    {
+      "Unnamed: 0": 199,
+      "voltage": 91,
+      "current": 50,
+      "power": 4522
+    },
+    {
+      "Unnamed: 0": 200,
+      "voltage": 66,
+      "current": 50,
+      "power": 3294
+    },
+    {
+      "Unnamed: 0": 201,
+      "voltage": 33,
+      "current": 50,
+      "power": 1659
+    },
+    {
+      "Unnamed: 0": 202,
+      "voltage": 98,
+      "current": 50,
+      "power": 4881
+    },
+    {
+      "Unnamed: 0": 203,
+      "voltage": 60,
+      "current": 50,
+      "power": 2975
+    },
+    {
+      "Unnamed: 0": 204,
+      "voltage": 30,
+      "current": 50,
+      "power": 1492
+    },
+    {
+      "Unnamed: 0": 205,
+      "voltage": 20,
+      "current": 50,
+      "power": 1006
+    },
+    {
+      "Unnamed: 0": 206,
+      "voltage": 30,
+      "current": 50,
+      "power": 1512
+    },
+    {
+      "Unnamed: 0": 207,
+      "voltage": 63,
+      "current": 50,
+      "power": 3168
+    },
+    {
+      "Unnamed: 0": 208,
+      "voltage": 99,
+      "current": 50,
+      "power": 4939
+    },
+    {
+      "Unnamed: 0": 209,
+      "voltage": 69,
+      "current": 50,
+      "power": 3420
+    },
+    {
+      "Unnamed: 0": 210,
+      "voltage": 99,
+      "current": 50,
+      "power": 4977
+    },
+    {
+      "Unnamed: 0": 211,
+      "voltage": 34,
+      "current": 50,
+      "power": 1709
+    },
+    {
+      "Unnamed: 0": 212,
+      "voltage": 29,
+      "current": 50,
+      "power": 1437
+    },
+    {
+      "Unnamed: 0": 213,
+      "voltage": 18,
+      "current": 50,
+      "power": 915
+    },
+    {
+      "Unnamed: 0": 214,
+      "voltage": 55,
+      "current": 50,
+      "power": 2737
+    },
+    {
+      "Unnamed: 0": 215,
+      "voltage": 54,
+      "current": 50,
+      "power": 2691
+    },
+    {
+      "Unnamed: 0": 216,
+      "voltage": 68,
+      "current": 50,
+      "power": 3391
+    },
+    {
+      "Unnamed: 0": 217,
+      "voltage": 20,
+      "current": 50,
+      "power": 1014
+    },
+    {
+      "Unnamed: 0": 218,
+      "voltage": 99,
+      "current": 50,
+      "power": 4927
+    },
+    {
+      "Unnamed: 0": 219,
+      "voltage": 93,
+      "current": 50,
+      "power": 4637
+    },
+    {
+      "Unnamed: 0": 220,
+      "voltage": 91,
+      "current": 50,
+      "power": 4570
+    },
+    {
+      "Unnamed: 0": 221,
+      "voltage": 70,
+      "current": 50,
+      "power": 3481
+    },
+    {
+      "Unnamed: 0": 222,
+      "voltage": 63,
+      "current": 50,
+      "power": 3133
+    },
+    {
+      "Unnamed: 0": 223,
+      "voltage": 31,
+      "current": 50,
+      "power": 1570
+    },
+    {
+      "Unnamed: 0": 224,
+      "voltage": 67,
+      "current": 50,
+      "power": 3339
+    },
+    {
+      "Unnamed: 0": 225,
+      "voltage": 25,
+      "current": 50,
+      "power": 1230
+    },
+    {
+      "Unnamed: 0": 226,
+      "voltage": 10,
+      "current": 50,
+      "power": 478
+    },
+    {
+      "Unnamed: 0": 227,
+      "voltage": 53,
+      "current": 50,
+      "power": 2670
+    },
+    {
+      "Unnamed: 0": 228,
+      "voltage": 59,
+      "current": 50,
+      "power": 2962
+    },
+    {
+      "Unnamed: 0": 229,
+      "voltage": 39,
+      "current": 50,
+      "power": 1954
+    },
+    {
+      "Unnamed: 0": 230,
+      "voltage": 73,
+      "current": 50,
+      "power": 3673
+    },
+    {
+      "Unnamed: 0": 231,
+      "voltage": 66,
+      "current": 50,
+      "power": 3293
+    },
+    {
+      "Unnamed: 0": 232,
+      "voltage": 41,
+      "current": 50,
+      "power": 2219
+    },
+    {
+      "Unnamed: 0": 233,
+      "voltage": 28,
+      "current": 50,
+      "power": 1405
+    },
+    {
+      "Unnamed: 0": 234,
+      "voltage": 93,
+      "current": 50,
+      "power": 4674
+    },
+    {
+      "Unnamed: 0": 235,
+      "voltage": 22,
+      "current": 50,
+      "power": 1088
+    },
+    {
+      "Unnamed: 0": 236,
+      "voltage": 94,
+      "current": 50,
+      "power": 4674
+    },
+    {
+      "Unnamed: 0": 237,
+      "voltage": 37,
+      "current": 50,
+      "power": 1823
+    },
+    {
+      "Unnamed: 0": 238,
+      "voltage": 63,
+      "current": 50,
+      "power": 3160
+    },
+    {
+      "Unnamed: 0": 239,
+      "voltage": 62,
+      "current": 50,
+      "power": 3083
+    },
+    {
+      "Unnamed: 0": 240,
+      "voltage": 27,
+      "current": 50,
+      "power": 1372
+    },
+    {
+      "Unnamed: 0": 241,
+      "voltage": 14,
+      "current": 50,
+      "power": 673
+    },
+    {
+      "Unnamed: 0": 242,
+      "voltage": 79,
+      "current": 50,
+      "power": 3949
+    },
+    {
+      "Unnamed: 0": 243,
+      "voltage": 74,
+      "current": 50,
+      "power": 3690
+    },
+    {
+      "Unnamed: 0": 244,
+      "voltage": 62,
+      "current": 50,
+      "power": 3183
+    },
+    {
+      "Unnamed: 0": 245,
+      "voltage": 13,
+      "current": 50,
+      "power": 668
+    },
+    {
+      "Unnamed: 0": 246,
+      "voltage": 20,
+      "current": 50,
+      "power": 1025
+    },
+    {
+      "Unnamed: 0": 247,
+      "voltage": 78,
+      "current": 50,
+      "power": 3901
+    },
+    {
+      "Unnamed: 0": 248,
+      "voltage": 52,
+      "current": 50,
+      "power": 2584
+    },
+    {
+      "Unnamed: 0": 249,
+      "voltage": 25,
+      "current": 50,
+      "power": 1220
+    },
+    {
+      "Unnamed: 0": 250,
+      "voltage": 90,
+      "current": 50,
+      "power": 4514
+    },
+    {
+      "Unnamed: 0": 251,
+      "voltage": 45,
+      "current": 50,
+      "power": 2240
+    },
+    {
+      "Unnamed: 0": 252,
+      "voltage": 88,
+      "current": 50,
+      "power": 4387
+    },
+    {
+      "Unnamed: 0": 253,
+      "voltage": 16,
+      "current": 50,
+      "power": 801
+    },
+    {
+      "Unnamed: 0": 254,
+      "voltage": 75,
+      "current": 50,
+      "power": 3726
+    },
+    {
+      "Unnamed: 0": 255,
+      "voltage": 30,
+      "current": 50,
+      "power": 1484
+    },
+    {
+      "Unnamed: 0": 256,
+      "voltage": 68,
+      "current": 50,
+      "power": 3424
+    },
+    {
+      "Unnamed: 0": 257,
+      "voltage": 63,
+      "current": 50,
+      "power": 3163
+    },
+    {
+      "Unnamed: 0": 258,
+      "voltage": 26,
+      "current": 50,
+      "power": 1302
+    },
+    {
+      "Unnamed: 0": 259,
+      "voltage": 66,
+      "current": 50,
+      "power": 3281
+    },
+    {
+      "Unnamed: 0": 260,
+      "voltage": 57,
+      "current": 50,
+      "power": 2878
+    },
+    {
+      "Unnamed: 0": 261,
+      "voltage": 59,
+      "current": 50,
+      "power": 2956
+    },
+    {
+      "Unnamed: 0": 262,
+      "voltage": 13,
+      "current": 50,
+      "power": 665
+    },
+    {
+      "Unnamed: 0": 263,
+      "voltage": 35,
+      "current": 50,
+      "power": 1754
+    },
+    {
+      "Unnamed: 0": 264,
+      "voltage": 87,
+      "current": 50,
+      "power": 4378
+    },
+    {
+      "Unnamed: 0": 265,
+      "voltage": 68,
+      "current": 50,
+      "power": 3375
+    },
+    {
+      "Unnamed: 0": 266,
+      "voltage": 20,
+      "current": 50,
+      "power": 980
+    },
+    {
+      "Unnamed: 0": 267,
+      "voltage": 42,
+      "current": 50,
+      "power": 2100
+    },
+    {
+      "Unnamed: 0": 268,
+      "voltage": 20,
+      "current": 50,
+      "power": 987
+    },
+    {
+      "Unnamed: 0": 269,
+      "voltage": 60,
+      "current": 50,
+      "power": 2999
+    },
+    {
+      "Unnamed: 0": 270,
+      "voltage": 87,
+      "current": 50,
+      "power": 4322
+    },
+    {
+      "Unnamed: 0": 271,
+      "voltage": 19,
+      "current": 50,
+      "power": 951
+    },
+    {
+      "Unnamed: 0": 272,
+      "voltage": 67,
+      "current": 50,
+      "power": 3361
+    },
+    {
+      "Unnamed: 0": 273,
+      "voltage": 66,
+      "current": 50,
+      "power": 3320
+    },
+    {
+      "Unnamed: 0": 274,
+      "voltage": 34,
+      "current": 50,
+      "power": 1681
+    },
+    {
+      "Unnamed: 0": 275,
+      "voltage": 39,
+      "current": 50,
+      "power": 1927
+    },
+    {
+      "Unnamed: 0": 276,
+      "voltage": 77,
+      "current": 50,
+      "power": 3827
+    },
+    {
+      "Unnamed: 0": 277,
+      "voltage": 94,
+      "current": 50,
+      "power": 4708
+    },
+    {
+      "Unnamed: 0": 278,
+      "voltage": 54,
+      "current": 50,
+      "power": 2702
+    },
+    {
+      "Unnamed: 0": 279,
+      "voltage": 59,
+      "current": 50,
+      "power": 2951
+    },
+    {
+      "Unnamed: 0": 280,
+      "voltage": 46,
+      "current": 50,
+      "power": 2309
+    },
+    {
+      "Unnamed: 0": 281,
+      "voltage": 89,
+      "current": 50,
+      "power": 4449
+    },
+    {
+      "Unnamed: 0": 282,
+      "voltage": 84,
+      "current": 50,
+      "power": 4204
+    },
+    {
+      "Unnamed: 0": 283,
+      "voltage": 46,
+      "current": 50,
+      "power": 2289
+    },
+    {
+      "Unnamed: 0": 284,
+      "voltage": 55,
+      "current": 50,
+      "power": 2736
+    },
+    {
+      "Unnamed: 0": 285,
+      "voltage": 11,
+      "current": 50,
+      "power": 525
+    },
+    {
+      "Unnamed: 0": 286,
+      "voltage": 56,
+      "current": 50,
+      "power": 2824
+    },
+    {
+      "Unnamed: 0": 287,
+      "voltage": 15,
+      "current": 50,
+      "power": 774
+    },
+    {
+      "Unnamed: 0": 288,
+      "voltage": 93,
+      "current": 50,
+      "power": 4677
+    },
+    {
+      "Unnamed: 0": 289,
+      "voltage": 23,
+      "current": 50,
+      "power": 1161
+    },
+    {
+      "Unnamed: 0": 290,
+      "voltage": 70,
+      "current": 50,
+      "power": 3525
+    },
+    {
+      "Unnamed: 0": 291,
+      "voltage": 82,
+      "current": 50,
+      "power": 4115
+    },
+    {
+      "Unnamed: 0": 292,
+      "voltage": 89,
+      "current": 50,
+      "power": 4597
+    },
+    {
+      "Unnamed: 0": 293,
+      "voltage": 98,
+      "current": 50,
+      "power": 4873
+    },
+    {
+      "Unnamed: 0": 294,
+      "voltage": 54,
+      "current": 50,
+      "power": 2683
+    },
+    {
+      "Unnamed: 0": 295,
+      "voltage": 20,
+      "current": 50,
+      "power": 1000
+    },
+    {
+      "Unnamed: 0": 296,
+      "voltage": 35,
+      "current": 50,
+      "power": 1765
+    },
+    {
+      "Unnamed: 0": 297,
+      "voltage": 20,
+      "current": 50,
+      "power": 1001
+    },
+    {
+      "Unnamed: 0": 298,
+      "voltage": 58,
+      "current": 50,
+      "power": 2929
+    },
+    {
+      "Unnamed: 0": 299,
+      "voltage": 82,
+      "current": 50,
+      "power": 4098
+    },
+    {
+      "Unnamed: 0": 300,
+      "voltage": 23,
+      "current": 50,
+      "power": 1131
+    },
+    {
+      "Unnamed: 0": 301,
+      "voltage": 94,
+      "current": 50,
+      "power": 4699
+    },
+    {
+      "Unnamed: 0": 302,
+      "voltage": 75,
+      "current": 50,
+      "power": 3731
+    },
+    {
+      "Unnamed: 0": 303,
+      "voltage": 31,
+      "current": 50,
+      "power": 1520
+    },
+    {
+      "Unnamed: 0": 304,
+      "voltage": 15,
+      "current": 50,
+      "power": 759
+    },
+    {
+      "Unnamed: 0": 305,
+      "voltage": 67,
+      "current": 50,
+      "power": 3344
+    },
+    {
+      "Unnamed: 0": 306,
+      "voltage": 80,
+      "current": 50,
+      "power": 3973
+    },
+    {
+      "Unnamed: 0": 307,
+      "voltage": 15,
+      "current": 50,
+      "power": 744
+    },
+    {
+      "Unnamed: 0": 308,
+      "voltage": 45,
+      "current": 50,
+      "power": 2268
+    },
+    {
+      "Unnamed: 0": 309,
+      "voltage": 76,
+      "current": 50,
+      "power": 3829
+    },
+    {
+      "Unnamed: 0": 310,
+      "voltage": 88,
+      "current": 50,
+      "power": 4377
+    },
+    {
+      "Unnamed: 0": 311,
+      "voltage": 50,
+      "current": 50,
+      "power": 2492
+    },
+    {
+      "Unnamed: 0": 312,
+      "voltage": 69,
+      "current": 50,
+      "power": 3477
+    },
+    {
+      "Unnamed: 0": 313,
+      "voltage": 96,
+      "current": 50,
+      "power": 4816
+    },
+    {
+      "Unnamed: 0": 314,
+      "voltage": 84,
+      "current": 50,
+      "power": 4198
+    },
+    {
+      "Unnamed: 0": 315,
+      "voltage": 12,
+      "current": 50,
+      "power": 589
+    },
+    {
+      "Unnamed: 0": 316,
+      "voltage": 41,
+      "current": 50,
+      "power": 2052
+    },
+    {
+      "Unnamed: 0": 317,
+      "voltage": 87,
+      "current": 50,
+      "power": 4350
+    },
+    {
+      "Unnamed: 0": 318,
+      "voltage": 68,
+      "current": 50,
+      "power": 3411
+    },
+    {
+      "Unnamed: 0": 319,
+      "voltage": 32,
+      "current": 50,
+      "power": 1579
+    },
+    {
+      "Unnamed: 0": 320,
+      "voltage": 66,
+      "current": 50,
+      "power": 3286
+    },
+    {
+      "Unnamed: 0": 321,
+      "voltage": 73,
+      "current": 50,
+      "power": 3666
+    },
+    {
+      "Unnamed: 0": 322,
+      "voltage": 27,
+      "current": 50,
+      "power": 1373
+    },
+    {
+      "Unnamed: 0": 323,
+      "voltage": 57,
+      "current": 50,
+      "power": 2871
+    },
+    {
+      "Unnamed: 0": 324,
+      "voltage": 14,
+      "current": 50,
+      "power": 671
+    },
+    {
+      "Unnamed: 0": 325,
+      "voltage": 86,
+      "current": 50,
+      "power": 4287
+    },
+    {
+      "Unnamed: 0": 326,
+      "voltage": 43,
+      "current": 50,
+      "power": 2178
+    },
+    {
+      "Unnamed: 0": 327,
+      "voltage": 61,
+      "current": 50,
+      "power": 3038
+    },
+    {
+      "Unnamed: 0": 328,
+      "voltage": 22,
+      "current": 50,
+      "power": 1101
+    },
+    {
+      "Unnamed: 0": 329,
+      "voltage": 85,
+      "current": 50,
+      "power": 4249
+    },
+    {
+      "Unnamed: 0": 330,
+      "voltage": 67,
+      "current": 50,
+      "power": 3376
+    },
+    {
+      "Unnamed: 0": 331,
+      "voltage": 59,
+      "current": 50,
+      "power": 2927
+    },
+    {
+      "Unnamed: 0": 332,
+      "voltage": 93,
+      "current": 50,
+      "power": 4622
+    },
+    {
+      "Unnamed: 0": 333,
+      "voltage": 84,
+      "current": 50,
+      "power": 4206
+    },
+    {
+      "Unnamed: 0": 334,
+      "voltage": 14,
+      "current": 50,
+      "power": 719
+    },
+    {
+      "Unnamed: 0": 335,
+      "voltage": 88,
+      "current": 50,
+      "power": 4377
+    },
+    {
+      "Unnamed: 0": 336,
+      "voltage": 97,
+      "current": 50,
+      "power": 4877
+    },
+    {
+      "Unnamed: 0": 337,
+      "voltage": 93,
+      "current": 50,
+      "power": 4636
+    },
+    {
+      "Unnamed: 0": 338,
+      "voltage": 81,
+      "current": 50,
+      "power": 4044
+    },
+    {
+      "Unnamed: 0": 339,
+      "voltage": 39,
+      "current": 50,
+      "power": 1928
+    },
+    {
+      "Unnamed: 0": 340,
+      "voltage": 50,
+      "current": 50,
+      "power": 2497
+    },
+    {
+      "Unnamed: 0": 341,
+      "voltage": 84,
+      "current": 50,
+      "power": 4170
+    },
+    {
+      "Unnamed: 0": 342,
+      "voltage": 24,
+      "current": 50,
+      "power": 1222
+    },
+    {
+      "Unnamed: 0": 343,
+      "voltage": 29,
+      "current": 50,
+      "power": 1471
+    },
+    {
+      "Unnamed: 0": 344,
+      "voltage": 97,
+      "current": 50,
+      "power": 4836
+    },
+    {
+      "Unnamed: 0": 345,
+      "voltage": 26,
+      "current": 50,
+      "power": 1270
+    },
+    {
+      "Unnamed: 0": 346,
+      "voltage": 10,
+      "current": 50,
+      "power": 510
+    },
+    {
+      "Unnamed: 0": 347,
+      "voltage": 36,
+      "current": 50,
+      "power": 1772
+    },
+    {
+      "Unnamed: 0": 348,
+      "voltage": 25,
+      "current": 50,
+      "power": 1238
+    },
+    {
+      "Unnamed: 0": 349,
+      "voltage": 60,
+      "current": 50,
+      "power": 2999
+    },
+    {
+      "Unnamed: 0": 350,
+      "voltage": 95,
+      "current": 50,
+      "power": 4763
+    },
+    {
+      "Unnamed: 0": 351,
+      "voltage": 33,
+      "current": 50,
+      "power": 1658
+    },
+    {
+      "Unnamed: 0": 352,
+      "voltage": 82,
+      "current": 50,
+      "power": 4081
+    },
+    {
+      "Unnamed: 0": 353,
+      "voltage": 45,
+      "current": 50,
+      "power": 2234
+    },
+    {
+      "Unnamed: 0": 354,
+      "voltage": 67,
+      "current": 50,
+      "power": 3325
+    },
+    {
+      "Unnamed: 0": 355,
+      "voltage": 62,
+      "current": 50,
+      "power": 3087
+    },
+    {
+      "Unnamed: 0": 356,
+      "voltage": 88,
+      "current": 50,
+      "power": 4388
+    },
+    {
+      "Unnamed: 0": 357,
+      "voltage": 61,
+      "current": 50,
+      "power": 3078
+    },
+    {
+      "Unnamed: 0": 358,
+      "voltage": 37,
+      "current": 50,
+      "power": 1880
+    },
+    {
+      "Unnamed: 0": 359,
+      "voltage": 50,
+      "current": 50,
+      "power": 2523
+    },
+    {
+      "Unnamed: 0": 360,
+      "voltage": 90,
+      "current": 50,
+      "power": 4508
+    },
+    {
+      "Unnamed: 0": 361,
+      "voltage": 22,
+      "current": 50,
+      "power": 1090
+    },
+    {
+      "Unnamed: 0": 362,
+      "voltage": 24,
+      "current": 50,
+      "power": 1219
+    },
+    {
+      "Unnamed: 0": 363,
+      "voltage": 39,
+      "current": 50,
+      "power": 1931
+    },
+    {
+      "Unnamed: 0": 364,
+      "voltage": 95,
+      "current": 50,
+      "power": 4755
+    },
+    {
+      "Unnamed: 0": 365,
+      "voltage": 76,
+      "current": 50,
+      "power": 3777
+    },
+    {
+      "Unnamed: 0": 366,
+      "voltage": 70,
+      "current": 50,
+      "power": 3518
+    },
+    {
+      "Unnamed: 0": 367,
+      "voltage": 96,
+      "current": 50,
+      "power": 4830
+    },
+    {
+      "Unnamed: 0": 368,
+      "voltage": 61,
+      "current": 50,
+      "power": 3046
+    },
+    {
+      "Unnamed: 0": 369,
+      "voltage": 72,
+      "current": 50,
+      "power": 3611
+    },
+    {
+      "Unnamed: 0": 370,
+      "voltage": 77,
+      "current": 50,
+      "power": 3823
+    },
+    {
+      "Unnamed: 0": 371,
+      "voltage": 47,
+      "current": 50,
+      "power": 2332
+    },
+    {
+      "Unnamed: 0": 372,
+      "voltage": 64,
+      "current": 50,
+      "power": 3218
+    },
+    {
+      "Unnamed: 0": 373,
+      "voltage": 40,
+      "current": 50,
+      "power": 1972
+    },
+    {
+      "Unnamed: 0": 374,
+      "voltage": 11,
+      "current": 50,
+      "power": 580
+    },
+    {
+      "Unnamed: 0": 375,
+      "voltage": 93,
+      "current": 50,
+      "power": 4651
+    },
+    {
+      "Unnamed: 0": 376,
+      "voltage": 99,
+      "current": 50,
+      "power": 4925
+    },
+    {
+      "Unnamed: 0": 377,
+      "voltage": 35,
+      "current": 50,
+      "power": 1736
+    },
+    {
+      "Unnamed: 0": 378,
+      "voltage": 27,
+      "current": 50,
+      "power": 1328
+    },
+    {
+      "Unnamed: 0": 379,
+      "voltage": 52,
+      "current": 50,
+      "power": 2577
+    },
+    {
+      "Unnamed: 0": 380,
+      "voltage": 78,
+      "current": 50,
+      "power": 3903
+    },
+    {
+      "Unnamed: 0": 381,
+      "voltage": 36,
+      "current": 50,
+      "power": 1805
+    },
+    {
+      "Unnamed: 0": 382,
+      "voltage": 65,
+      "current": 50,
+      "power": 3227
+    },
+    {
+      "Unnamed: 0": 383,
+      "voltage": 11,
+      "current": 50,
+      "power": 523
+    },
+    {
+      "Unnamed: 0": 384,
+      "voltage": 62,
+      "current": 50,
+      "power": 3111
+    },
+    {
+      "Unnamed: 0": 385,
+      "voltage": 97,
+      "current": 50,
+      "power": 4863
+    },
+    {
+      "Unnamed: 0": 386,
+      "voltage": 91,
+      "current": 50,
+      "power": 4565
+    },
+    {
+      "Unnamed: 0": 387,
+      "voltage": 32,
+      "current": 50,
+      "power": 1577
+    },
+    {
+      "Unnamed: 0": 388,
+      "voltage": 68,
+      "current": 50,
+      "power": 3370
+    },
+    {
+      "Unnamed: 0": 389,
+      "voltage": 97,
+      "current": 50,
+      "power": 4854
+    },
+    {
+      "Unnamed: 0": 390,
+      "voltage": 12,
+      "current": 50,
+      "power": 625
+    },
+    {
+      "Unnamed: 0": 391,
+      "voltage": 32,
+      "current": 50,
+      "power": 1706
+    },
+    {
+      "Unnamed: 0": 392,
+      "voltage": 42,
+      "current": 50,
+      "power": 2107
+    },
+    {
+      "Unnamed: 0": 393,
+      "voltage": 30,
+      "current": 50,
+      "power": 1478
+    },
+    {
+      "Unnamed: 0": 394,
+      "voltage": 24,
+      "current": 50,
+      "power": 1184
+    },
+    {
+      "Unnamed: 0": 395,
+      "voltage": 32,
+      "current": 50,
+      "power": 1578
+    },
+    {
+      "Unnamed: 0": 396,
+      "voltage": 87,
+      "current": 50,
+      "power": 4358
+    },
+    {
+      "Unnamed: 0": 397,
+      "voltage": 81,
+      "current": 50,
+      "power": 4037
+    },
+    {
+      "Unnamed: 0": 398,
+      "voltage": 29,
+      "current": 50,
+      "power": 1427
+    },
+    {
+      "Unnamed: 0": 399,
+      "voltage": 43,
+      "current": 50,
+      "power": 2156
+    },
+    {
+      "Unnamed: 0": 400,
+      "voltage": 25,
+      "current": 50,
+      "power": 1226
+    },
+    {
+      "Unnamed: 0": 401,
+      "voltage": 56,
+      "current": 50,
+      "power": 2770
+    },
+    {
+      "Unnamed: 0": 402,
+      "voltage": 18,
+      "current": 50,
+      "power": 914
+    },
+    {
+      "Unnamed: 0": 403,
+      "voltage": 46,
+      "current": 50,
+      "power": 2282
+    },
+    {
+      "Unnamed: 0": 404,
+      "voltage": 18,
+      "current": 50,
+      "power": 905
+    },
+    {
+      "Unnamed: 0": 405,
+      "voltage": 35,
+      "current": 50,
+      "power": 1778
+    },
+    {
+      "Unnamed: 0": 406,
+      "voltage": 54,
+      "current": 50,
+      "power": 2717
+    },
+    {
+      "Unnamed: 0": 407,
+      "voltage": 48,
+      "current": 50,
+      "power": 2391
+    },
+    {
+      "Unnamed: 0": 408,
+      "voltage": 73,
+      "current": 50,
+      "power": 3674
+    },
+    {
+      "Unnamed: 0": 409,
+      "voltage": 31,
+      "current": 50,
+      "power": 1534
+    },
+    {
+      "Unnamed: 0": 410,
+      "voltage": 65,
+      "current": 50,
+      "power": 3247
+    },
+    {
+      "Unnamed: 0": 411,
+      "voltage": 48,
+      "current": 50,
+      "power": 2392
+    },
+    {
+      "Unnamed: 0": 412,
+      "voltage": 42,
+      "current": 50,
+      "power": 2103
+    },
+    {
+      "Unnamed: 0": 413,
+      "voltage": 99,
+      "current": 50,
+      "power": 4926
+    },
+    {
+      "Unnamed: 0": 414,
+      "voltage": 21,
+      "current": 50,
+      "power": 1034
+    },
+    {
+      "Unnamed: 0": 415,
+      "voltage": 71,
+      "current": 50,
+      "power": 3671
+    },
+    {
+      "Unnamed: 0": 416,
+      "voltage": 52,
+      "current": 50,
+      "power": 2586
+    },
+    {
+      "Unnamed: 0": 417,
+      "voltage": 72,
+      "current": 50,
+      "power": 3620
+    },
+    {
+      "Unnamed: 0": 418,
+      "voltage": 78,
+      "current": 50,
+      "power": 3883
+    },
+    {
+      "Unnamed: 0": 419,
+      "voltage": 59,
+      "current": 50,
+      "power": 2980
+    },
+    {
+      "Unnamed: 0": 420,
+      "voltage": 34,
+      "current": 50,
+      "power": 1705
+    },
+    {
+      "Unnamed: 0": 421,
+      "voltage": 17,
+      "current": 50,
+      "power": 829
+    },
+    {
+      "Unnamed: 0": 422,
+      "voltage": 29,
+      "current": 50,
+      "power": 1430
+    },
+    {
+      "Unnamed: 0": 423,
+      "voltage": 50,
+      "current": 50,
+      "power": 2516
+    },
+    {
+      "Unnamed: 0": 424,
+      "voltage": 86,
+      "current": 50,
+      "power": 4293
+    },
+    {
+      "Unnamed: 0": 425,
+      "voltage": 47,
+      "current": 50,
+      "power": 2347
+    },
+    {
+      "Unnamed: 0": 426,
+      "voltage": 34,
+      "current": 50,
+      "power": 1717
+    },
+    {
+      "Unnamed: 0": 427,
+      "voltage": 73,
+      "current": 50,
+      "power": 3627
+    },
+    {
+      "Unnamed: 0": 428,
+      "voltage": 21,
+      "current": 50,
+      "power": 1052
+    },
+    {
+      "Unnamed: 0": 429,
+      "voltage": 43,
+      "current": 50,
+      "power": 2152
+    },
+    {
+      "Unnamed: 0": 430,
+      "voltage": 63,
+      "current": 50,
+      "power": 3153
+    },
+    {
+      "Unnamed: 0": 431,
+      "voltage": 70,
+      "current": 50,
+      "power": 3485
+    },
+    {
+      "Unnamed: 0": 432,
+      "voltage": 11,
+      "current": 50,
+      "power": 527
+    },
+    {
+      "Unnamed: 0": 433,
+      "voltage": 74,
+      "current": 50,
+      "power": 3711
+    },
+    {
+      "Unnamed: 0": 434,
+      "voltage": 15,
+      "current": 50,
+      "power": 756
+    },
+    {
+      "Unnamed: 0": 435,
+      "voltage": 15,
+      "current": 50,
+      "power": 739
+    },
+    {
+      "Unnamed: 0": 436,
+      "voltage": 95,
+      "current": 50,
+      "power": 4737
+    },
+    {
+      "Unnamed: 0": 437,
+      "voltage": 41,
+      "current": 50,
+      "power": 2051
+    },
+    {
+      "Unnamed: 0": 438,
+      "voltage": 33,
+      "current": 50,
+      "power": 1661
+    },
+    {
+      "Unnamed: 0": 439,
+      "voltage": 36,
+      "current": 50,
+      "power": 1807
+    },
+    {
+      "Unnamed: 0": 440,
+      "voltage": 58,
+      "current": 50,
+      "power": 2909
+    },
+    {
+      "Unnamed: 0": 441,
+      "voltage": 14,
+      "current": 50,
+      "power": 698
+    },
+    {
+      "Unnamed: 0": 442,
+      "voltage": 58,
+      "current": 50,
+      "power": 2899
+    },
+    {
+      "Unnamed: 0": 443,
+      "voltage": 45,
+      "current": 50,
+      "power": 2270
+    },
+    {
+      "Unnamed: 0": 444,
+      "voltage": 34,
+      "current": 50,
+      "power": 1683
+    },
+    {
+      "Unnamed: 0": 445,
+      "voltage": 76,
+      "current": 50,
+      "power": 3822
+    },
+    {
+      "Unnamed: 0": 446,
+      "voltage": 17,
+      "current": 50,
+      "power": 859
+    },
+    {
+      "Unnamed: 0": 447,
+      "voltage": 47,
+      "current": 50,
+      "power": 2354
+    },
+    {
+      "Unnamed: 0": 448,
+      "voltage": 80,
+      "current": 50,
+      "power": 4025
+    },
+    {
+      "Unnamed: 0": 449,
+      "voltage": 73,
+      "current": 50,
+      "power": 3659
+    },
+    {
+      "Unnamed: 0": 450,
+      "voltage": 88,
+      "current": 50,
+      "power": 4379
+    },
+    {
+      "Unnamed: 0": 451,
+      "voltage": 67,
+      "current": 50,
+      "power": 3364
+    },
+    {
+      "Unnamed: 0": 452,
+      "voltage": 11,
+      "current": 50,
+      "power": 571
+    },
+    {
+      "Unnamed: 0": 453,
+      "voltage": 64,
+      "current": 50,
+      "power": 3219
+    },
+    {
+      "Unnamed: 0": 454,
+      "voltage": 41,
+      "current": 50,
+      "power": 2071
+    },
+    {
+      "Unnamed: 0": 455,
+      "voltage": 89,
+      "current": 50,
+      "power": 4430
+    },
+    {
+      "Unnamed: 0": 456,
+      "voltage": 94,
+      "current": 50,
+      "power": 4727
+    },
+    {
+      "Unnamed: 0": 457,
+      "voltage": 91,
+      "current": 50,
+      "power": 4538
+    },
+    {
+      "Unnamed: 0": 458,
+      "voltage": 80,
+      "current": 50,
+      "power": 4018
+    },
+    {
+      "Unnamed: 0": 459,
+      "voltage": 62,
+      "current": 50,
+      "power": 3112
+    },
+    {
+      "Unnamed: 0": 460,
+      "voltage": 48,
+      "current": 50,
+      "power": 2385
+    },
+    {
+      "Unnamed: 0": 461,
+      "voltage": 40,
+      "current": 50,
+      "power": 2029
+    },
+    {
+      "Unnamed: 0": 462,
+      "voltage": 44,
+      "current": 50,
+      "power": 2193
+    },
+    {
+      "Unnamed: 0": 463,
+      "voltage": 20,
+      "current": 50,
+      "power": 1030
+    },
+    {
+      "Unnamed: 0": 464,
+      "voltage": 31,
+      "current": 50,
+      "power": 1558
+    },
+    {
+      "Unnamed: 0": 465,
+      "voltage": 92,
+      "current": 50,
+      "power": 4608
+    },
+    {
+      "Unnamed: 0": 466,
+      "voltage": 93,
+      "current": 50,
+      "power": 4624
+    },
+    {
+      "Unnamed: 0": 467,
+      "voltage": 33,
+      "current": 50,
+      "power": 1651
+    },
+    {
+      "Unnamed: 0": 468,
+      "voltage": 98,
+      "current": 50,
+      "power": 4921
+    },
+    {
+      "Unnamed: 0": 469,
+      "voltage": 44,
+      "current": 50,
+      "power": 2222
+    },
+    {
+      "Unnamed: 0": 470,
+      "voltage": 70,
+      "current": 50,
+      "power": 3526
+    },
+    {
+      "Unnamed: 0": 471,
+      "voltage": 72,
+      "current": 50,
+      "power": 3592
+    },
+    {
+      "Unnamed: 0": 472,
+      "voltage": 99,
+      "current": 50,
+      "power": 4974
+    },
+    {
+      "Unnamed: 0": 473,
+      "voltage": 62,
+      "current": 50,
+      "power": 3078
+    },
+    {
+      "Unnamed: 0": 474,
+      "voltage": 76,
+      "current": 50,
+      "power": 3779
+    },
+    {
+      "Unnamed: 0": 475,
+      "voltage": 62,
+      "current": 50,
+      "power": 3105
+    },
+    {
+      "Unnamed: 0": 476,
+      "voltage": 42,
+      "current": 50,
+      "power": 2127
+    },
+    {
+      "Unnamed: 0": 477,
+      "voltage": 39,
+      "current": 50,
+      "power": 1954
+    },
+    {
+      "Unnamed: 0": 478,
+      "voltage": 53,
+      "current": 50,
+      "power": 2649
+    },
+    {
+      "Unnamed: 0": 479,
+      "voltage": 24,
+      "current": 50,
+      "power": 1176
+    },
+    {
+      "Unnamed: 0": 480,
+      "voltage": 92,
+      "current": 50,
+      "power": 4609
+    },
+    {
+      "Unnamed: 0": 481,
+      "voltage": 50,
+      "current": 50,
+      "power": 2490
+    },
+    {
+      "Unnamed: 0": 482,
+      "voltage": 39,
+      "current": 50,
+      "power": 1965
+    },
+    {
+      "Unnamed: 0": 483,
+      "voltage": 70,
+      "current": 50,
+      "power": 3478
+    },
+    {
+      "Unnamed: 0": 484,
+      "voltage": 29,
+      "current": 50,
+      "power": 1477
+    },
+    {
+      "Unnamed: 0": 485,
+      "voltage": 26,
+      "current": 50,
+      "power": 1324
+    },
+    {
+      "Unnamed: 0": 486,
+      "voltage": 41,
+      "current": 50,
+      "power": 2064
+    },
+    {
+      "Unnamed: 0": 487,
+      "voltage": 22,
+      "current": 50,
+      "power": 1129
+    },
+    {
+      "Unnamed: 0": 488,
+      "voltage": 37,
+      "current": 50,
+      "power": 1851
+    },
+    {
+      "Unnamed: 0": 489,
+      "voltage": 16,
+      "current": 50,
+      "power": 771
+    },
+    {
+      "Unnamed: 0": 490,
+      "voltage": 75,
+      "current": 50,
+      "power": 3720
+    },
+    {
+      "Unnamed: 0": 491,
+      "voltage": 70,
+      "current": 50,
+      "power": 3527
+    },
+    {
+      "Unnamed: 0": 492,
+      "voltage": 98,
+      "current": 50,
+      "power": 4873
+    },
+    {
+      "Unnamed: 0": 493,
+      "voltage": 16,
+      "current": 50,
+      "power": 817
+    },
+    {
+      "Unnamed: 0": 494,
+      "voltage": 33,
+      "current": 50,
+      "power": 1634
+    },
+    {
+      "Unnamed: 0": 495,
+      "voltage": 32,
+      "current": 50,
+      "power": 1591
+    },
+    {
+      "Unnamed: 0": 496,
+      "voltage": 10,
+      "current": 50,
+      "power": 516
+    },
+    {
+      "Unnamed: 0": 497,
+      "voltage": 88,
+      "current": 50,
+      "power": 4382
+    },
+    {
+      "Unnamed: 0": 498,
+      "voltage": 53,
+      "current": 50,
+      "power": 2667
+    },
+    {
+      "Unnamed: 0": 499,
+      "voltage": 18,
+      "current": 50,
+      "power": 894
+    },
+    {
+      "Unnamed: 0": 500,
+      "voltage": 72,
+      "current": 50,
+      "power": 3587
+    },
+    {
+      "Unnamed: 0": 501,
+      "voltage": 46,
+      "current": 50,
+      "power": 2291
+    },
+    {
+      "Unnamed: 0": 502,
+      "voltage": 88,
+      "current": 50,
+      "power": 4397
+    },
+    {
+      "Unnamed: 0": 503,
+      "voltage": 55,
+      "current": 50,
+      "power": 2730
+    },
+    {
+      "Unnamed: 0": 504,
+      "voltage": 91,
+      "current": 50,
+      "power": 4547
+    },
+    {
+      "Unnamed: 0": 505,
+      "voltage": 64,
+      "current": 50,
+      "power": 3230
+    },
+    {
+      "Unnamed: 0": 506,
+      "voltage": 45,
+      "current": 50,
+      "power": 2256
+    },
+    {
+      "Unnamed: 0": 507,
+      "voltage": 83,
+      "current": 50,
+      "power": 4134
+    },
+    {
+      "Unnamed: 0": 508,
+      "voltage": 68,
+      "current": 50,
+      "power": 3425
+    },
+    {
+      "Unnamed: 0": 509,
+      "voltage": 41,
+      "current": 50,
+      "power": 2079
+    },
+    {
+      "Unnamed: 0": 510,
+      "voltage": 40,
+      "current": 50,
+      "power": 1991
+    },
+    {
+      "Unnamed: 0": 511,
+      "voltage": 22,
+      "current": 50,
+      "power": 1127
+    },
+    {
+      "Unnamed: 0": 512,
+      "voltage": 79,
+      "current": 50,
+      "power": 3930
+    },
+    {
+      "Unnamed: 0": 513,
+      "voltage": 61,
+      "current": 50,
+      "power": 3069
+    },
+    {
+      "Unnamed: 0": 514,
+      "voltage": 42,
+      "current": 50,
+      "power": 2106
+    },
+    {
+      "Unnamed: 0": 515,
+      "voltage": 85,
+      "current": 50,
+      "power": 4226
+    },
+    {
+      "Unnamed: 0": 516,
+      "voltage": 36,
+      "current": 50,
+      "power": 1823
+    },
+    {
+      "Unnamed: 0": 517,
+      "voltage": 97,
+      "current": 50,
+      "power": 4821
+    },
+    {
+      "Unnamed: 0": 518,
+      "voltage": 86,
+      "current": 50,
+      "power": 4305
+    },
+    {
+      "Unnamed: 0": 519,
+      "voltage": 43,
+      "current": 50,
+      "power": 2148
+    },
+    {
+      "Unnamed: 0": 520,
+      "voltage": 84,
+      "current": 50,
+      "power": 4177
+    },
+    {
+      "Unnamed: 0": 521,
+      "voltage": 62,
+      "current": 50,
+      "power": 3085
+    },
+    {
+      "Unnamed: 0": 522,
+      "voltage": 90,
+      "current": 50,
+      "power": 4497
+    },
+    {
+      "Unnamed: 0": 523,
+      "voltage": 84,
+      "current": 50,
+      "power": 4171
+    },
+    {
+      "Unnamed: 0": 524,
+      "voltage": 13,
+      "current": 50,
+      "power": 680
+    },
+    {
+      "Unnamed: 0": 525,
+      "voltage": 55,
+      "current": 50,
+      "power": 2770
+    },
+    {
+      "Unnamed: 0": 526,
+      "voltage": 17,
+      "current": 50,
+      "power": 863
+    },
+    {
+      "Unnamed: 0": 527,
+      "voltage": 68,
+      "current": 50,
+      "power": 3408
+    },
+    {
+      "Unnamed: 0": 528,
+      "voltage": 79,
+      "current": 50,
+      "power": 3948
+    },
+    {
+      "Unnamed: 0": 529,
+      "voltage": 54,
+      "current": 50,
+      "power": 2704
+    },
+    {
+      "Unnamed: 0": 530,
+      "voltage": 65,
+      "current": 50,
+      "power": 3256
+    },
+    {
+      "Unnamed: 0": 531,
+      "voltage": 22,
+      "current": 50,
+      "power": 1080
+    },
+    {
+      "Unnamed: 0": 532,
+      "voltage": 90,
+      "current": 50,
+      "power": 4527
+    },
+    {
+      "Unnamed: 0": 533,
+      "voltage": 13,
+      "current": 50,
+      "power": 797
+    },
+    {
+      "Unnamed: 0": 534,
+      "voltage": 94,
+      "current": 50,
+      "power": 4690
+    },
+    {
+      "Unnamed: 0": 535,
+      "voltage": 62,
+      "current": 50,
+      "power": 3121
+    },
+    {
+      "Unnamed: 0": 536,
+      "voltage": 27,
+      "current": 50,
+      "power": 1349
+    },
+    {
+      "Unnamed: 0": 537,
+      "voltage": 21,
+      "current": 50,
+      "power": 1037
+    },
+    {
+      "Unnamed: 0": 538,
+      "voltage": 18,
+      "current": 50,
+      "power": 913
+    },
+    {
+      "Unnamed: 0": 539,
+      "voltage": 59,
+      "current": 50,
+      "power": 2971
+    },
+    {
+      "Unnamed: 0": 540,
+      "voltage": 58,
+      "current": 50,
+      "power": 2876
+    },
+    {
+      "Unnamed: 0": 541,
+      "voltage": 11,
+      "current": 50,
+      "power": 550
+    },
+    {
+      "Unnamed: 0": 542,
+      "voltage": 33,
+      "current": 50,
+      "power": 1632
+    },
+    {
+      "Unnamed: 0": 543,
+      "voltage": 96,
+      "current": 50,
+      "power": 4771
+    },
+    {
+      "Unnamed: 0": 544,
+      "voltage": 14,
+      "current": 50,
+      "power": 687
+    },
+    {
+      "Unnamed: 0": 545,
+      "voltage": 93,
+      "current": 50,
+      "power": 4666
+    },
+    {
+      "Unnamed: 0": 546,
+      "voltage": 100,
+      "current": 50,
+      "power": 4985
+    },
+    {
+      "Unnamed: 0": 547,
+      "voltage": 49,
+      "current": 50,
+      "power": 2461
+    },
+    {
+      "Unnamed: 0": 548,
+      "voltage": 59,
+      "current": 50,
+      "power": 2956
+    },
+    {
+      "Unnamed: 0": 549,
+      "voltage": 14,
+      "current": 50,
+      "power": 402
+    },
+    {
+      "Unnamed: 0": 550,
+      "voltage": 59,
+      "current": 50,
+      "power": 2977
+    },
+    {
+      "Unnamed: 0": 551,
+      "voltage": 37,
+      "current": 50,
+      "power": 1876
+    },
+    {
+      "Unnamed: 0": 552,
+      "voltage": 52,
+      "current": 50,
+      "power": 2593
+    },
+    {
+      "Unnamed: 0": 553,
+      "voltage": 65,
+      "current": 50,
+      "power": 3231
+    },
+    {
+      "Unnamed: 0": 554,
+      "voltage": 86,
+      "current": 50,
+      "power": 4271
+    },
+    {
+      "Unnamed: 0": 555,
+      "voltage": 60,
+      "current": 50,
+      "power": 2976
+    },
+    {
+      "Unnamed: 0": 556,
+      "voltage": 59,
+      "current": 50,
+      "power": 2979
+    },
+    {
+      "Unnamed: 0": 557,
+      "voltage": 43,
+      "current": 50,
+      "power": 2126
+    },
+    {
+      "Unnamed: 0": 558,
+      "voltage": 79,
+      "current": 50,
+      "power": 3966
+    },
+    {
+      "Unnamed: 0": 559,
+      "voltage": 20,
+      "current": 50,
+      "power": 1013
+    },
+    {
+      "Unnamed: 0": 560,
+      "voltage": 63,
+      "current": 50,
+      "power": 3160
+    },
+    {
+      "Unnamed: 0": 561,
+      "voltage": 36,
+      "current": 50,
+      "power": 1826
+    },
+    {
+      "Unnamed: 0": 562,
+      "voltage": 88,
+      "current": 50,
+      "power": 4396
+    },
+    {
+      "Unnamed: 0": 563,
+      "voltage": 50,
+      "current": 50,
+      "power": 2509
+    },
+    {
+      "Unnamed: 0": 564,
+      "voltage": 55,
+      "current": 50,
+      "power": 2773
+    },
+    {
+      "Unnamed: 0": 565,
+      "voltage": 88,
+      "current": 50,
+      "power": 4395
+    },
+    {
+      "Unnamed: 0": 566,
+      "voltage": 20,
+      "current": 50,
+      "power": 1016
+    },
+    {
+      "Unnamed: 0": 567,
+      "voltage": 99,
+      "current": 50,
+      "power": 4938
+    },
+    {
+      "Unnamed: 0": 568,
+      "voltage": 40,
+      "current": 50,
+      "power": 1994
+    },
+    {
+      "Unnamed: 0": 569,
+      "voltage": 11,
+      "current": 50,
+      "power": 527
+    },
+    {
+      "Unnamed: 0": 570,
+      "voltage": 100,
+      "current": 50,
+      "power": 5004
+    },
+    {
+      "Unnamed: 0": 571,
+      "voltage": 68,
+      "current": 50,
+      "power": 3370
+    },
+    {
+      "Unnamed: 0": 572,
+      "voltage": 20,
+      "current": 50,
+      "power": 1003
+    },
+    {
+      "Unnamed: 0": 573,
+      "voltage": 86,
+      "current": 50,
+      "power": 4280
+    },
+    {
+      "Unnamed: 0": 574,
+      "voltage": 87,
+      "current": 50,
+      "power": 4340
+    },
+    {
+      "Unnamed: 0": 575,
+      "voltage": 97,
+      "current": 50,
+      "power": 4861
+    },
+    {
+      "Unnamed: 0": 576,
+      "voltage": 20,
+      "current": 50,
+      "power": 976
+    },
+    {
+      "Unnamed: 0": 577,
+      "voltage": 75,
+      "current": 50,
+      "power": 3759
+    },
+    {
+      "Unnamed: 0": 578,
+      "voltage": 36,
+      "current": 50,
+      "power": 1794
+    },
+    {
+      "Unnamed: 0": 579,
+      "voltage": 51,
+      "current": 50,
+      "power": 2524
+    },
+    {
+      "Unnamed: 0": 580,
+      "voltage": 93,
+      "current": 50,
+      "power": 4641
+    },
+    {
+      "Unnamed: 0": 581,
+      "voltage": 62,
+      "current": 50,
+      "power": 3075
+    },
+    {
+      "Unnamed: 0": 582,
+      "voltage": 20,
+      "current": 50,
+      "power": 1018
+    },
+    {
+      "Unnamed: 0": 583,
+      "voltage": 20,
+      "current": 50,
+      "power": 1005
+    },
+    {
+      "Unnamed: 0": 584,
+      "voltage": 77,
+      "current": 50,
+      "power": 3869
+    },
+    {
+      "Unnamed: 0": 585,
+      "voltage": 24,
+      "current": 50,
+      "power": 1172
+    },
+    {
+      "Unnamed: 0": 586,
+      "voltage": 14,
+      "current": 50,
+      "power": 684
+    },
+    {
+      "Unnamed: 0": 587,
+      "voltage": 16,
+      "current": 50,
+      "power": 821
+    },
+    {
+      "Unnamed: 0": 588,
+      "voltage": 67,
+      "current": 50,
+      "power": 3325
+    },
+    {
+      "Unnamed: 0": 589,
+      "voltage": 97,
+      "current": 50,
+      "power": 4855
+    },
+    {
+      "Unnamed: 0": 590,
+      "voltage": 72,
+      "current": 50,
+      "power": 3587
+    },
+    {
+      "Unnamed: 0": 591,
+      "voltage": 59,
+      "current": 50,
+      "power": 2931
+    },
+    {
+      "Unnamed: 0": 592,
+      "voltage": 57,
+      "current": 50,
+      "power": 2855
+    },
+    {
+      "Unnamed: 0": 593,
+      "voltage": 85,
+      "current": 50,
+      "power": 4276
+    },
+    {
+      "Unnamed: 0": 594,
+      "voltage": 69,
+      "current": 50,
+      "power": 3470
+    },
+    {
+      "Unnamed: 0": 595,
+      "voltage": 71,
+      "current": 50,
+      "power": 3551
+    },
+    {
+      "Unnamed: 0": 596,
+      "voltage": 84,
+      "current": 50,
+      "power": 4199
+    },
+    {
+      "Unnamed: 0": 597,
+      "voltage": 90,
+      "current": 50,
+      "power": 4508
+    },
+    {
+      "Unnamed: 0": 598,
+      "voltage": 45,
+      "current": 50,
+      "power": 2237
+    },
+    {
+      "Unnamed: 0": 599,
+      "voltage": 26,
+      "current": 50,
+      "power": 1296
+    },
+    {
+      "Unnamed: 0": 600,
+      "voltage": 29,
+      "current": 50,
+      "power": 1445
+    },
+    {
+      "Unnamed: 0": 601,
+      "voltage": 82,
+      "current": 50,
+      "power": 4107
+    },
+    {
+      "Unnamed: 0": 602,
+      "voltage": 90,
+      "current": 50,
+      "power": 4500
+    },
+    {
+      "Unnamed: 0": 603,
+      "voltage": 62,
+      "current": 50,
+      "power": 3119
+    },
+    {
+      "Unnamed: 0": 604,
+      "voltage": 82,
+      "current": 50,
+      "power": 4104
+    },
+    {
+      "Unnamed: 0": 605,
+      "voltage": 23,
+      "current": 50,
+      "power": 1132
+    },
+    {
+      "Unnamed: 0": 606,
+      "voltage": 96,
+      "current": 50,
+      "power": 4799
+    },
+    {
+      "Unnamed: 0": 607,
+      "voltage": 84,
+      "current": 50,
+      "power": 4212
+    },
+    {
+      "Unnamed: 0": 608,
+      "voltage": 89,
+      "current": 50,
+      "power": 4474
+    },
+    {
+      "Unnamed: 0": 609,
+      "voltage": 88,
+      "current": 50,
+      "power": 4386
+    },
+    {
+      "Unnamed: 0": 610,
+      "voltage": 48,
+      "current": 50,
+      "power": 2387
+    },
+    {
+      "Unnamed: 0": 611,
+      "voltage": 45,
+      "current": 50,
+      "power": 2246
+    },
+    {
+      "Unnamed: 0": 612,
+      "voltage": 56,
+      "current": 50,
+      "power": 2799
+    },
+    {
+      "Unnamed: 0": 613,
+      "voltage": 88,
+      "current": 50,
+      "power": 4425
+    },
+    {
+      "Unnamed: 0": 614,
+      "voltage": 49,
+      "current": 50,
+      "power": 2462
+    },
+    {
+      "Unnamed: 0": 615,
+      "voltage": 27,
+      "current": 50,
+      "power": 1363
+    },
+    {
+      "Unnamed: 0": 616,
+      "voltage": 30,
+      "current": 50,
+      "power": 1488
+    },
+    {
+      "Unnamed: 0": 617,
+      "voltage": 31,
+      "current": 50,
+      "power": 1270
+    },
+    {
+      "Unnamed: 0": 618,
+      "voltage": 51,
+      "current": 50,
+      "power": 2556
+    },
+    {
+      "Unnamed: 0": 619,
+      "voltage": 79,
+      "current": 50,
+      "power": 3956
+    },
+    {
+      "Unnamed: 0": 620,
+      "voltage": 67,
+      "current": 50,
+      "power": 3358
+    },
+    {
+      "Unnamed: 0": 621,
+      "voltage": 45,
+      "current": 50,
+      "power": 2278
+    },
+    {
+      "Unnamed: 0": 622,
+      "voltage": 82,
+      "current": 50,
+      "power": 4099
+    },
+    {
+      "Unnamed: 0": 623,
+      "voltage": 24,
+      "current": 50,
+      "power": 1215
+    },
+    {
+      "Unnamed: 0": 624,
+      "voltage": 40,
+      "current": 50,
+      "power": 2002
+    },
+    {
+      "Unnamed: 0": 625,
+      "voltage": 59,
+      "current": 50,
+      "power": 2957
+    },
+    {
+      "Unnamed: 0": 626,
+      "voltage": 90,
+      "current": 50,
+      "power": 4490
+    },
+    {
+      "Unnamed: 0": 627,
+      "voltage": 25,
+      "current": 50,
+      "power": 1260
+    },
+    {
+      "Unnamed: 0": 628,
+      "voltage": 79,
+      "current": 50,
+      "power": 3980
+    },
+    {
+      "Unnamed: 0": 629,
+      "voltage": 13,
+      "current": 50,
+      "power": 627
+    },
+    {
+      "Unnamed: 0": 630,
+      "voltage": 18,
+      "current": 50,
+      "power": 899
+    },
+    {
+      "Unnamed: 0": 631,
+      "voltage": 76,
+      "current": 50,
+      "power": 3805
+    },
+    {
+      "Unnamed: 0": 632,
+      "voltage": 93,
+      "current": 50,
+      "power": 4651
+    },
+    {
+      "Unnamed: 0": 633,
+      "voltage": 74,
+      "current": 50,
+      "power": 3729
+    },
+    {
+      "Unnamed: 0": 634,
+      "voltage": 54,
+      "current": 50,
+      "power": 2702
+    },
+    {
+      "Unnamed: 0": 635,
+      "voltage": 66,
+      "current": 50,
+      "power": 3300
+    },
+    {
+      "Unnamed: 0": 636,
+      "voltage": 42,
+      "current": 50,
+      "power": 2092
+    },
+    {
+      "Unnamed: 0": 637,
+      "voltage": 46,
+      "current": 50,
+      "power": 2323
+    },
+    {
+      "Unnamed: 0": 638,
+      "voltage": 66,
+      "current": 50,
+      "power": 3317
+    },
+    {
+      "Unnamed: 0": 639,
+      "voltage": 92,
+      "current": 50,
+      "power": 4595
+    },
+    {
+      "Unnamed: 0": 640,
+      "voltage": 85,
+      "current": 50,
+      "power": 4224
+    },
+    {
+      "Unnamed: 0": 641,
+      "voltage": 33,
+      "current": 50,
+      "power": 1668
+    },
+    {
+      "Unnamed: 0": 642,
+      "voltage": 17,
+      "current": 50,
+      "power": 879
+    },
+    {
+      "Unnamed: 0": 643,
+      "voltage": 90,
+      "current": 50,
+      "power": 4528
+    },
+    {
+      "Unnamed: 0": 644,
+      "voltage": 84,
+      "current": 50,
+      "power": 4180
+    },
+    {
+      "Unnamed: 0": 645,
+      "voltage": 57,
+      "current": 50,
+      "power": 2828
+    },
+    {
+      "Unnamed: 0": 646,
+      "voltage": 66,
+      "current": 50,
+      "power": 3297
+    },
+    {
+      "Unnamed: 0": 647,
+      "voltage": 37,
+      "current": 50,
+      "power": 1455
+    },
+    {
+      "Unnamed: 0": 648,
+      "voltage": 54,
+      "current": 50,
+      "power": 2687
+    },
+    {
+      "Unnamed: 0": 649,
+      "voltage": 93,
+      "current": 50,
+      "power": 4680
+    },
+    {
+      "Unnamed: 0": 650,
+      "voltage": 68,
+      "current": 50,
+      "power": 3390
+    },
+    {
+      "Unnamed: 0": 651,
+      "voltage": 51,
+      "current": 50,
+      "power": 2543
+    },
+    {
+      "Unnamed: 0": 652,
+      "voltage": 72,
+      "current": 50,
+      "power": 3587
+    },
+    {
+      "Unnamed: 0": 653,
+      "voltage": 55,
+      "current": 50,
+      "power": 2765
+    },
+    {
+      "Unnamed: 0": 654,
+      "voltage": 65,
+      "current": 50,
+      "power": 3231
+    },
+    {
+      "Unnamed: 0": 655,
+      "voltage": 16,
+      "current": 50,
+      "power": 785
+    },
+    {
+      "Unnamed: 0": 656,
+      "voltage": 29,
+      "current": 50,
+      "power": 1469
+    },
+    {
+      "Unnamed: 0": 657,
+      "voltage": 76,
+      "current": 50,
+      "power": 3773
+    },
+    {
+      "Unnamed: 0": 658,
+      "voltage": 10,
+      "current": 50,
+      "power": 530
+    },
+    {
+      "Unnamed: 0": 659,
+      "voltage": 64,
+      "current": 50,
+      "power": 3611
+    },
+    {
+      "Unnamed: 0": 660,
+      "voltage": 61,
+      "current": 50,
+      "power": 3078
+    },
+    {
+      "Unnamed: 0": 661,
+      "voltage": 39,
+      "current": 50,
+      "power": 1964
+    },
+    {
+      "Unnamed: 0": 662,
+      "voltage": 17,
+      "current": 50,
+      "power": 835
+    },
+    {
+      "Unnamed: 0": 663,
+      "voltage": 70,
+      "current": 50,
+      "power": 3126
+    },
+    {
+      "Unnamed: 0": 664,
+      "voltage": 62,
+      "current": 50,
+      "power": 3107
+    },
+    {
+      "Unnamed: 0": 665,
+      "voltage": 80,
+      "current": 50,
+      "power": 4011
+    },
+    {
+      "Unnamed: 0": 666,
+      "voltage": 77,
+      "current": 50,
+      "power": 3835
+    },
+    {
+      "Unnamed: 0": 667,
+      "voltage": 29,
+      "current": 50,
+      "power": 1421
+    },
+    {
+      "Unnamed: 0": 668,
+      "voltage": 22,
+      "current": 50,
+      "power": 1119
+    },
+    {
+      "Unnamed: 0": 669,
+      "voltage": 49,
+      "current": 50,
+      "power": 2454
+    },
+    {
+      "Unnamed: 0": 670,
+      "voltage": 49,
+      "current": 50,
+      "power": 2442
+    },
+    {
+      "Unnamed: 0": 671,
+      "voltage": 46,
+      "current": 50,
+      "power": 2280
+    },
+    {
+      "Unnamed: 0": 672,
+      "voltage": 99,
+      "current": 50,
+      "power": 4967
+    },
+    {
+      "Unnamed: 0": 673,
+      "voltage": 78,
+      "current": 50,
+      "power": 3892
+    },
+    {
+      "Unnamed: 0": 674,
+      "voltage": 72,
+      "current": 50,
+      "power": 3579
+    },
+    {
+      "Unnamed: 0": 675,
+      "voltage": 63,
+      "current": 50,
+      "power": 3171
+    },
+    {
+      "Unnamed: 0": 676,
+      "voltage": 69,
+      "current": 50,
+      "power": 3453
+    },
+    {
+      "Unnamed: 0": 677,
+      "voltage": 75,
+      "current": 50,
+      "power": 3724
+    },
+    {
+      "Unnamed: 0": 678,
+      "voltage": 98,
+      "current": 50,
+      "power": 4883
+    },
+    {
+      "Unnamed: 0": 679,
+      "voltage": 73,
+      "current": 50,
+      "power": 3637
+    },
+    {
+      "Unnamed: 0": 680,
+      "voltage": 66,
+      "current": 50,
+      "power": 3307
+    },
+    {
+      "Unnamed: 0": 681,
+      "voltage": 25,
+      "current": 50,
+      "power": 1276
+    },
+    {
+      "Unnamed: 0": 682,
+      "voltage": 88,
+      "current": 50,
+      "power": 4372
+    },
+    {
+      "Unnamed: 0": 683,
+      "voltage": 92,
+      "current": 50,
+      "power": 4618
+    },
+    {
+      "Unnamed: 0": 684,
+      "voltage": 22,
+      "current": 50,
+      "power": 1102
+    },
+    {
+      "Unnamed: 0": 685,
+      "voltage": 89,
+      "current": 50,
+      "power": 4444
+    },
+    {
+      "Unnamed: 0": 686,
+      "voltage": 99,
+      "current": 50,
+      "power": 4965
+    },
+    {
+      "Unnamed: 0": 687,
+      "voltage": 35,
+      "current": 50,
+      "power": 1756
+    },
+    {
+      "Unnamed: 0": 688,
+      "voltage": 70,
+      "current": 50,
+      "power": 3489
+    },
+    {
+      "Unnamed: 0": 689,
+      "voltage": 71,
+      "current": 50,
+      "power": 3540
+    },
+    {
+      "Unnamed: 0": 690,
+      "voltage": 49,
+      "current": 50,
+      "power": 2421
+    },
+    {
+      "Unnamed: 0": 691,
+      "voltage": 19,
+      "current": 50,
+      "power": 935
+    },
+    {
+      "Unnamed: 0": 692,
+      "voltage": 76,
+      "current": 50,
+      "power": 3807
+    },
+    {
+      "Unnamed: 0": 693,
+      "voltage": 52,
+      "current": 50,
+      "power": 2578
+    },
+    {
+      "Unnamed: 0": 694,
+      "voltage": 51,
+      "current": 50,
+      "power": 2574
+    },
+    {
+      "Unnamed: 0": 695,
+      "voltage": 64,
+      "current": 50,
+      "power": 3204
+    },
+    {
+      "Unnamed: 0": 696,
+      "voltage": 67,
+      "current": 50,
+      "power": 3367
+    },
+    {
+      "Unnamed: 0": 697,
+      "voltage": 75,
+      "current": 50,
+      "power": 3730
+    },
+    {
+      "Unnamed: 0": 698,
+      "voltage": 78,
+      "current": 50,
+      "power": 3907
+    },
+    {
+      "Unnamed: 0": 699,
+      "voltage": 40,
+      "current": 50,
+      "power": 2023
+    },
+    {
+      "Unnamed: 0": 700,
+      "voltage": 14,
+      "current": 50,
+      "power": 687
+    },
+    {
+      "Unnamed: 0": 701,
+      "voltage": 26,
+      "current": 50,
+      "power": 1330
+    },
+    {
+      "Unnamed: 0": 702,
+      "voltage": 16,
+      "current": 50,
+      "power": 810
+    },
+    {
+      "Unnamed: 0": 703,
+      "voltage": 11,
+      "current": 50,
+      "power": 539
+    },
+    {
+      "Unnamed: 0": 704,
+      "voltage": 28,
+      "current": 50,
+      "power": 1413
+    },
+    {
+      "Unnamed: 0": 705,
+      "voltage": 42,
+      "current": 50,
+      "power": 2088
+    },
+    {
+      "Unnamed: 0": 706,
+      "voltage": 14,
+      "current": 50,
+      "power": 705
+    },
+    {
+      "Unnamed: 0": 707,
+      "voltage": 61,
+      "current": 50,
+      "power": 3068
+    },
+    {
+      "Unnamed: 0": 708,
+      "voltage": 95,
+      "current": 50,
+      "power": 4749
+    },
+    {
+      "Unnamed: 0": 709,
+      "voltage": 74,
+      "current": 50,
+      "power": 3713
+    },
+    {
+      "Unnamed: 0": 710,
+      "voltage": 65,
+      "current": 50,
+      "power": 3249
+    },
+    {
+      "Unnamed: 0": 711,
+      "voltage": 56,
+      "current": 50,
+      "power": 2771
+    },
+    {
+      "Unnamed: 0": 712,
+      "voltage": 46,
+      "current": 50,
+      "power": 2294
+    },
+    {
+      "Unnamed: 0": 713,
+      "voltage": 100,
+      "current": 50,
+      "power": 4998
+    },
+    {
+      "Unnamed: 0": 714,
+      "voltage": 73,
+      "current": 50,
+      "power": 3650
+    },
+    {
+      "Unnamed: 0": 715,
+      "voltage": 25,
+      "current": 50,
+      "power": 1227
+    },
+    {
+      "Unnamed: 0": 716,
+      "voltage": 24,
+      "current": 50,
+      "power": 1178
+    },
+    {
+      "Unnamed: 0": 717,
+      "voltage": 89,
+      "current": 50,
+      "power": 4451
+    },
+    {
+      "Unnamed: 0": 718,
+      "voltage": 64,
+      "current": 50,
+      "power": 3202
+    },
+    {
+      "Unnamed: 0": 719,
+      "voltage": 88,
+      "current": 50,
+      "power": 4394
+    },
+    {
+      "Unnamed: 0": 720,
+      "voltage": 46,
+      "current": 50,
+      "power": 2303
+    },
+    {
+      "Unnamed: 0": 721,
+      "voltage": 42,
+      "current": 50,
+      "power": 2076
+    },
+    {
+      "Unnamed: 0": 722,
+      "voltage": 83,
+      "current": 50,
+      "power": 4152
+    },
+    {
+      "Unnamed: 0": 723,
+      "voltage": 97,
+      "current": 50,
+      "power": 4824
+    },
+    {
+      "Unnamed: 0": 724,
+      "voltage": 61,
+      "current": 50,
+      "power": 3022
+    },
+    {
+      "Unnamed: 0": 725,
+      "voltage": 78,
+      "current": 50,
+      "power": 3928
+    },
+    {
+      "Unnamed: 0": 726,
+      "voltage": 92,
+      "current": 50,
+      "power": 4617
+    },
+    {
+      "Unnamed: 0": 727,
+      "voltage": 46,
+      "current": 50,
+      "power": 2316
+    },
+    {
+      "Unnamed: 0": 728,
+      "voltage": 95,
+      "current": 50,
+      "power": 4735
+    },
+    {
+      "Unnamed: 0": 729,
+      "voltage": 81,
+      "current": 50,
+      "power": 4035
+    },
+    {
+      "Unnamed: 0": 730,
+      "voltage": 86,
+      "current": 50,
+      "power": 4305
+    },
+    {
+      "Unnamed: 0": 731,
+      "voltage": 64,
+      "current": 50,
+      "power": 3182
+    },
+    {
+      "Unnamed: 0": 732,
+      "voltage": 48,
+      "current": 50,
+      "power": 2375
+    },
+    {
+      "Unnamed: 0": 733,
+      "voltage": 15,
+      "current": 50,
+      "power": 733
+    },
+    {
+      "Unnamed: 0": 734,
+      "voltage": 95,
+      "current": 50,
+      "power": 4769
+    },
+    {
+      "Unnamed: 0": 735,
+      "voltage": 47,
+      "current": 50,
+      "power": 2361
+    },
+    {
+      "Unnamed: 0": 736,
+      "voltage": 75,
+      "current": 50,
+      "power": 3735
+    },
+    {
+      "Unnamed: 0": 737,
+      "voltage": 10,
+      "current": 50,
+      "power": 489
+    },
+    {
+      "Unnamed: 0": 738,
+      "voltage": 24,
+      "current": 50,
+      "power": 1225
+    },
+    {
+      "Unnamed: 0": 739,
+      "voltage": 98,
+      "current": 50,
+      "power": 4930
+    },
+    {
+      "Unnamed: 0": 740,
+      "voltage": 11,
+      "current": 50,
+      "power": 557
+    },
+    {
+      "Unnamed: 0": 741,
+      "voltage": 34,
+      "current": 50,
+      "power": 1686
+    },
+    {
+      "Unnamed: 0": 742,
+      "voltage": 28,
+      "current": 50,
+      "power": 1385
+    },
+    {
+      "Unnamed: 0": 743,
+      "voltage": 92,
+      "current": 50,
+      "power": 4575
+    },
+    {
+      "Unnamed: 0": 744,
+      "voltage": 62,
+      "current": 50,
+      "power": 3078
+    },
+    {
+      "Unnamed: 0": 745,
+      "voltage": 89,
+      "current": 50,
+      "power": 4451
+    },
+    {
+      "Unnamed: 0": 746,
+      "voltage": 48,
+      "current": 50,
+      "power": 2374
+    },
+    {
+      "Unnamed: 0": 747,
+      "voltage": 99,
+      "current": 50,
+      "power": 4978
+    },
+    {
+      "Unnamed: 0": 748,
+      "voltage": 13,
+      "current": 50,
+      "power": 661
+    },
+    {
+      "Unnamed: 0": 749,
+      "voltage": 15,
+      "current": 50,
+      "power": 769
+    },
+    {
+      "Unnamed: 0": 750,
+      "voltage": 67,
+      "current": 50,
+      "power": 3364
+    },
+    {
+      "Unnamed: 0": 751,
+      "voltage": 37,
+      "current": 50,
+      "power": 1829
+    },
+    {
+      "Unnamed: 0": 752,
+      "voltage": 19,
+      "current": 50,
+      "power": 977
+    },
+    {
+      "Unnamed: 0": 753,
+      "voltage": 58,
+      "current": 50,
+      "power": 2870
+    },
+    {
+      "Unnamed: 0": 754,
+      "voltage": 54,
+      "current": 50,
+      "power": 2705
+    },
+    {
+      "Unnamed: 0": 755,
+      "voltage": 37,
+      "current": 50,
+      "power": 1843
+    },
+    {
+      "Unnamed: 0": 756,
+      "voltage": 70,
+      "current": 50,
+      "power": 3470
+    },
+    {
+      "Unnamed: 0": 757,
+      "voltage": 51,
+      "current": 50,
+      "power": 2580
+    },
+    {
+      "Unnamed: 0": 758,
+      "voltage": 84,
+      "current": 50,
+      "power": 3774
+    },
+    {
+      "Unnamed: 0": 759,
+      "voltage": 94,
+      "current": 50,
+      "power": 4699
+    },
+    {
+      "Unnamed: 0": 760,
+      "voltage": 72,
+      "current": 50,
+      "power": 3592
+    },
+    {
+      "Unnamed: 0": 761,
+      "voltage": 38,
+      "current": 50,
+      "power": 1883
+    },
+    {
+      "Unnamed: 0": 762,
+      "voltage": 30,
+      "current": 50,
+      "power": 1525
+    },
+    {
+      "Unnamed: 0": 763,
+      "voltage": 64,
+      "current": 50,
+      "power": 3217
+    },
+    {
+      "Unnamed: 0": 764,
+      "voltage": 13,
+      "current": 50,
+      "power": 626
+    },
+    {
+      "Unnamed: 0": 765,
+      "voltage": 49,
+      "current": 50,
+      "power": 2437
+    },
+    {
+      "Unnamed: 0": 766,
+      "voltage": 18,
+      "current": 50,
+      "power": 929
+    },
+    {
+      "Unnamed: 0": 767,
+      "voltage": 10,
+      "current": 50,
+      "power": 512
+    },
+    {
+      "Unnamed: 0": 768,
+      "voltage": 67,
+      "current": 50,
+      "power": 3355
+    },
+    {
+      "Unnamed: 0": 769,
+      "voltage": 54,
+      "current": 50,
+      "power": 2675
+    },
+    {
+      "Unnamed: 0": 770,
+      "voltage": 22,
+      "current": 50,
+      "power": 1083
+    },
+    {
+      "Unnamed: 0": 771,
+      "voltage": 65,
+      "current": 50,
+      "power": 3245
+    },
+    {
+      "Unnamed: 0": 772,
+      "voltage": 34,
+      "current": 50,
+      "power": 1701
+    },
+    {
+      "Unnamed: 0": 773,
+      "voltage": 23,
+      "current": 50,
+      "power": 1139
+    },
+    {
+      "Unnamed: 0": 774,
+      "voltage": 39,
+      "current": 50,
+      "power": 1951
+    },
+    {
+      "Unnamed: 0": 775,
+      "voltage": 16,
+      "current": 50,
+      "power": 780
+    },
+    {
+      "Unnamed: 0": 776,
+      "voltage": 61,
+      "current": 50,
+      "power": 3080
+    },
+    {
+      "Unnamed: 0": 777,
+      "voltage": 55,
+      "current": 50,
+      "power": 3082
+    },
+    {
+      "Unnamed: 0": 778,
+      "voltage": 32,
+      "current": 50,
+      "power": 1609
+    },
+    {
+      "Unnamed: 0": 779,
+      "voltage": 27,
+      "current": 50,
+      "power": 1322
+    },
+    {
+      "Unnamed: 0": 780,
+      "voltage": 14,
+      "current": 50,
+      "power": 727
+    },
+    {
+      "Unnamed: 0": 781,
+      "voltage": 93,
+      "current": 50,
+      "power": 4664
+    },
+    {
+      "Unnamed: 0": 782,
+      "voltage": 64,
+      "current": 50,
+      "power": 3216
+    },
+    {
+      "Unnamed: 0": 783,
+      "voltage": 57,
+      "current": 50,
+      "power": 2853
+    },
+    {
+      "Unnamed: 0": 784,
+      "voltage": 60,
+      "current": 50,
+      "power": 2976
+    },
+    {
+      "Unnamed: 0": 785,
+      "voltage": 45,
+      "current": 50,
+      "power": 2249
+    },
+    {
+      "Unnamed: 0": 786,
+      "voltage": 43,
+      "current": 50,
+      "power": 2155
+    },
+    {
+      "Unnamed: 0": 787,
+      "voltage": 14,
+      "current": 50,
+      "power": 716
+    },
+    {
+      "Unnamed: 0": 788,
+      "voltage": 40,
+      "current": 50,
+      "power": 1979
+    },
+    {
+      "Unnamed: 0": 789,
+      "voltage": 19,
+      "current": 50,
+      "power": 946
+    },
+    {
+      "Unnamed: 0": 790,
+      "voltage": 57,
+      "current": 50,
+      "power": 2835
+    },
+    {
+      "Unnamed: 0": 791,
+      "voltage": 55,
+      "current": 50,
+      "power": 2758
+    },
+    {
+      "Unnamed: 0": 792,
+      "voltage": 33,
+      "current": 50,
+      "power": 1641
+    },
+    {
+      "Unnamed: 0": 793,
+      "voltage": 54,
+      "current": 50,
+      "power": 2691
+    },
+    {
+      "Unnamed: 0": 794,
+      "voltage": 92,
+      "current": 50,
+      "power": 4574
+    },
+    {
+      "Unnamed: 0": 795,
+      "voltage": 51,
+      "current": 50,
+      "power": 2537
+    },
+    {
+      "Unnamed: 0": 796,
+      "voltage": 61,
+      "current": 50,
+      "power": 3063
+    },
+    {
+      "Unnamed: 0": 797,
+      "voltage": 15,
+      "current": 50,
+      "power": 730
+    },
+    {
+      "Unnamed: 0": 798,
+      "voltage": 26,
+      "current": 50,
+      "power": 1278
+    },
+    {
+      "Unnamed: 0": 799,
+      "voltage": 22,
+      "current": 50,
+      "power": 1097
+    },
+    {
+      "Unnamed: 0": 800,
+      "voltage": 18,
+      "current": 50,
+      "power": 890
+    },
+    {
+      "Unnamed: 0": 801,
+      "voltage": 57,
+      "current": 50,
+      "power": 2872
+    },
+    {
+      "Unnamed: 0": 802,
+      "voltage": 97,
+      "current": 50,
+      "power": 4855
+    },
+    {
+      "Unnamed: 0": 803,
+      "voltage": 85,
+      "current": 50,
+      "power": 4268
+    },
+    {
+      "Unnamed: 0": 804,
+      "voltage": 94,
+      "current": 50,
+      "power": 4717
+    },
+    {
+      "Unnamed: 0": 805,
+      "voltage": 16,
+      "current": 50,
+      "power": 803
+    },
+    {
+      "Unnamed: 0": 806,
+      "voltage": 78,
+      "current": 50,
+      "power": 3880
+    },
+    {
+      "Unnamed: 0": 807,
+      "voltage": 44,
+      "current": 50,
+      "power": 2177
+    },
+    {
+      "Unnamed: 0": 808,
+      "voltage": 95,
+      "current": 50,
+      "power": 4768
+    },
+    {
+      "Unnamed: 0": 809,
+      "voltage": 37,
+      "current": 50,
+      "power": 1865
+    },
+    {
+      "Unnamed: 0": 810,
+      "voltage": 83,
+      "current": 50,
+      "power": 4121
+    },
+    {
+      "Unnamed: 0": 811,
+      "voltage": 32,
+      "current": 50,
+      "power": 1608
+    },
+    {
+      "Unnamed: 0": 812,
+      "voltage": 66,
+      "current": 50,
+      "power": 3288
+    },
+    {
+      "Unnamed: 0": 813,
+      "voltage": 35,
+      "current": 50,
+      "power": 1768
+    },
+    {
+      "Unnamed: 0": 814,
+      "voltage": 96,
+      "current": 50,
+      "power": 4807
+    },
+    {
+      "Unnamed: 0": 815,
+      "voltage": 84,
+      "current": 50,
+      "power": 4198
+    },
+    {
+      "Unnamed: 0": 816,
+      "voltage": 63,
+      "current": 50,
+      "power": 3163
+    },
+    {
+      "Unnamed: 0": 817,
+      "voltage": 49,
+      "current": 50,
+      "power": 2422
+    },
+    {
+      "Unnamed: 0": 818,
+      "voltage": 28,
+      "current": 50,
+      "power": 1430
+    },
+    {
+      "Unnamed: 0": 819,
+      "voltage": 81,
+      "current": 50,
+      "power": 4043
+    },
+    {
+      "Unnamed: 0": 820,
+      "voltage": 64,
+      "current": 50,
+      "power": 3172
+    },
+    {
+      "Unnamed: 0": 821,
+      "voltage": 45,
+      "current": 50,
+      "power": 2241
+    },
+    {
+      "Unnamed: 0": 822,
+      "voltage": 59,
+      "current": 50,
+      "power": 2935
+    },
+    {
+      "Unnamed: 0": 823,
+      "voltage": 25,
+      "current": 50,
+      "power": 1229
+    },
+    {
+      "Unnamed: 0": 824,
+      "voltage": 17,
+      "current": 50,
+      "power": 875
+    },
+    {
+      "Unnamed: 0": 825,
+      "voltage": 59,
+      "current": 50,
+      "power": 2945
+    },
+    {
+      "Unnamed: 0": 826,
+      "voltage": 60,
+      "current": 50,
+      "power": 2985
+    },
+    {
+      "Unnamed: 0": 827,
+      "voltage": 13,
+      "current": 50,
+      "power": 677
+    },
+    {
+      "Unnamed: 0": 828,
+      "voltage": 83,
+      "current": 50,
+      "power": 4168
+    },
+    {
+      "Unnamed: 0": 829,
+      "voltage": 98,
+      "current": 50,
+      "power": 4918
+    },
+    {
+      "Unnamed: 0": 830,
+      "voltage": 80,
+      "current": 50,
+      "power": 4005
+    },
+    {
+      "Unnamed: 0": 831,
+      "voltage": 17,
+      "current": 50,
+      "power": 861
+    },
+    {
+      "Unnamed: 0": 832,
+      "voltage": 74,
+      "current": 50,
+      "power": 3706
+    },
+    {
+      "Unnamed: 0": 833,
+      "voltage": 11,
+      "current": 50,
+      "power": 542
+    },
+    {
+      "Unnamed: 0": 834,
+      "voltage": 47,
+      "current": 50,
+      "power": 2365
+    },
+    {
+      "Unnamed: 0": 835,
+      "voltage": 69,
+      "current": 50,
+      "power": 3476
+    },
+    {
+      "Unnamed: 0": 836,
+      "voltage": 65,
+      "current": 50,
+      "power": 3226
+    },
+    {
+      "Unnamed: 0": 837,
+      "voltage": 32,
+      "current": 50,
+      "power": 1589
+    },
+    {
+      "Unnamed: 0": 838,
+      "voltage": 55,
+      "current": 50,
+      "power": 2722
+    },
+    {
+      "Unnamed: 0": 839,
+      "voltage": 37,
+      "current": 50,
+      "power": 1840
+    },
+    {
+      "Unnamed: 0": 840,
+      "voltage": 14,
+      "current": 50,
+      "power": 722
+    },
+    {
+      "Unnamed: 0": 841,
+      "voltage": 13,
+      "current": 50,
+      "power": 629
+    },
+    {
+      "Unnamed: 0": 842,
+      "voltage": 95,
+      "current": 50,
+      "power": 4770
+    },
+    {
+      "Unnamed: 0": 843,
+      "voltage": 34,
+      "current": 50,
+      "power": 1453
+    },
+    {
+      "Unnamed: 0": 844,
+      "voltage": 45,
+      "current": 50,
+      "power": 2243
+    },
+    {
+      "Unnamed: 0": 845,
+      "voltage": 93,
+      "current": 50,
+      "power": 4652
+    },
+    {
+      "Unnamed: 0": 846,
+      "voltage": 90,
+      "current": 50,
+      "power": 4476
+    },
+    {
+      "Unnamed: 0": 847,
+      "voltage": 19,
+      "current": 50,
+      "power": 957
+    },
+    {
+      "Unnamed: 0": 848,
+      "voltage": 58,
+      "current": 50,
+      "power": 2887
+    },
+    {
+      "Unnamed: 0": 849,
+      "voltage": 23,
+      "current": 50,
+      "power": 1176
+    },
+    {
+      "Unnamed: 0": 850,
+      "voltage": 50,
+      "current": 50,
+      "power": 2486
+    },
+    {
+      "Unnamed: 0": 851,
+      "voltage": 65,
+      "current": 50,
+      "power": 3253
+    },
+    {
+      "Unnamed: 0": 852,
+      "voltage": 45,
+      "current": 50,
+      "power": 2236
+    },
+    {
+      "Unnamed: 0": 853,
+      "voltage": 43,
+      "current": 50,
+      "power": 2132
+    },
+    {
+      "Unnamed: 0": 854,
+      "voltage": 88,
+      "current": 50,
+      "power": 4424
+    },
+    {
+      "Unnamed: 0": 855,
+      "voltage": 43,
+      "current": 50,
+      "power": 2132
+    },
+    {
+      "Unnamed: 0": 856,
+      "voltage": 36,
+      "current": 50,
+      "power": 1819
+    },
+    {
+      "Unnamed: 0": 857,
+      "voltage": 53,
+      "current": 50,
+      "power": 2668
+    },
+    {
+      "Unnamed: 0": 858,
+      "voltage": 62,
+      "current": 50,
+      "power": 3106
+    },
+    {
+      "Unnamed: 0": 859,
+      "voltage": 17,
+      "current": 50,
+      "power": 847
+    },
+    {
+      "Unnamed: 0": 860,
+      "voltage": 26,
+      "current": 50,
+      "power": 1325
+    },
+    {
+      "Unnamed: 0": 861,
+      "voltage": 59,
+      "current": 50,
+      "power": 2925
+    },
+    {
+      "Unnamed: 0": 862,
+      "voltage": 10,
+      "current": 50,
+      "power": 512
+    },
+    {
+      "Unnamed: 0": 863,
+      "voltage": 69,
+      "current": 50,
+      "power": 3451
+    },
+    {
+      "Unnamed: 0": 864,
+      "voltage": 50,
+      "current": 50,
+      "power": 2518
+    },
+    {
+      "Unnamed: 0": 865,
+      "voltage": 49,
+      "current": 50,
+      "power": 2425
+    },
+    {
+      "Unnamed: 0": 866,
+      "voltage": 87,
+      "current": 50,
+      "power": 4357
+    },
+    {
+      "Unnamed: 0": 867,
+      "voltage": 36,
+      "current": 50,
+      "power": 1824
+    },
+    {
+      "Unnamed: 0": 868,
+      "voltage": 96,
+      "current": 50,
+      "power": 4820
+    },
+    {
+      "Unnamed: 0": 869,
+      "voltage": 12,
+      "current": 50,
+      "power": 570
+    },
+    {
+      "Unnamed: 0": 870,
+      "voltage": 86,
+      "current": 50,
+      "power": 4325
+    },
+    {
+      "Unnamed: 0": 871,
+      "voltage": 40,
+      "current": 50,
+      "power": 2012
+    },
+    {
+      "Unnamed: 0": 872,
+      "voltage": 43,
+      "current": 50,
+      "power": 2143
+    },
+    {
+      "Unnamed: 0": 873,
+      "voltage": 81,
+      "current": 50,
+      "power": 4070
+    },
+    {
+      "Unnamed: 0": 874,
+      "voltage": 15,
+      "current": 50,
+      "power": 724
+    },
+    {
+      "Unnamed: 0": 875,
+      "voltage": 63,
+      "current": 50,
+      "power": 3152
+    },
+    {
+      "Unnamed: 0": 876,
+      "voltage": 95,
+      "current": 50,
+      "power": 4734
+    },
+    {
+      "Unnamed: 0": 877,
+      "voltage": 30,
+      "current": 50,
+      "power": 1519
+    },
+    {
+      "Unnamed: 0": 878,
+      "voltage": 20,
+      "current": 50,
+      "power": 1001
+    },
+    {
+      "Unnamed: 0": 879,
+      "voltage": 70,
+      "current": 50,
+      "power": 3505
+    },
+    {
+      "Unnamed: 0": 880,
+      "voltage": 24,
+      "current": 50,
+      "power": 1221
+    },
+    {
+      "Unnamed: 0": 881,
+      "voltage": 41,
+      "current": 50,
+      "power": 2037
+    },
+    {
+      "Unnamed: 0": 882,
+      "voltage": 73,
+      "current": 50,
+      "power": 3633
+    },
+    {
+      "Unnamed: 0": 883,
+      "voltage": 10,
+      "current": 50,
+      "power": 474
+    },
+    {
+      "Unnamed: 0": 884,
+      "voltage": 14,
+      "current": 50,
+      "power": 679
+    },
+    {
+      "Unnamed: 0": 885,
+      "voltage": 71,
+      "current": 50,
+      "power": 3567
+    },
+    {
+      "Unnamed: 0": 886,
+      "voltage": 67,
+      "current": 50,
+      "power": 3335
+    },
+    {
+      "Unnamed: 0": 887,
+      "voltage": 23,
+      "current": 50,
+      "power": 1165
+    },
+    {
+      "Unnamed: 0": 888,
+      "voltage": 22,
+      "current": 50,
+      "power": 1119
+    },
+    {
+      "Unnamed: 0": 889,
+      "voltage": 12,
+      "current": 50,
+      "power": 595
+    },
+    {
+      "Unnamed: 0": 890,
+      "voltage": 23,
+      "current": 50,
+      "power": 1140
+    },
+    {
+      "Unnamed: 0": 891,
+      "voltage": 24,
+      "current": 50,
+      "power": 1176
+    },
+    {
+      "Unnamed: 0": 892,
+      "voltage": 79,
+      "current": 50,
+      "power": 3966
+    },
+    {
+      "Unnamed: 0": 893,
+      "voltage": 56,
+      "current": 50,
+      "power": 2773
+    },
+    {
+      "Unnamed: 0": 894,
+      "voltage": 46,
+      "current": 50,
+      "power": 2317
+    },
+    {
+      "Unnamed: 0": 895,
+      "voltage": 50,
+      "current": 50,
+      "power": 2478
+    },
+    {
+      "Unnamed: 0": 896,
+      "voltage": 15,
+      "current": 50,
+      "power": 769
+    },
+    {
+      "Unnamed: 0": 897,
+      "voltage": 19,
+      "current": 50,
+      "power": 966
+    },
+    {
+      "Unnamed: 0": 898,
+      "voltage": 38,
+      "current": 50,
+      "power": 1876
+    },
+    {
+      "Unnamed: 0": 899,
+      "voltage": 97,
+      "current": 50,
+      "power": 4826
+    },
+    {
+      "Unnamed: 0": 900,
+      "voltage": 46,
+      "current": 50,
+      "power": 2306
+    },
+    {
+      "Unnamed: 0": 901,
+      "voltage": 79,
+      "current": 50,
+      "power": 3975
+    },
+    {
+      "Unnamed: 0": 902,
+      "voltage": 31,
+      "current": 50,
+      "power": 1526
+    },
+    {
+      "Unnamed: 0": 903,
+      "voltage": 74,
+      "current": 50,
+      "power": 3712
+    },
+    {
+      "Unnamed: 0": 904,
+      "voltage": 58,
+      "current": 50,
+      "power": 2905
+    },
+    {
+      "Unnamed: 0": 905,
+      "voltage": 84,
+      "current": 50,
+      "power": 4189
+    },
+    {
+      "Unnamed: 0": 906,
+      "voltage": 13,
+      "current": 50,
+      "power": 627
+    },
+    {
+      "Unnamed: 0": 907,
+      "voltage": 88,
+      "current": 50,
+      "power": 4264
+    },
+    {
+      "Unnamed: 0": 908,
+      "voltage": 56,
+      "current": 50,
+      "power": 2776
+    },
+    {
+      "Unnamed: 0": 909,
+      "voltage": 78,
+      "current": 50,
+      "power": 3894
+    },
+    {
+      "Unnamed: 0": 910,
+      "voltage": 43,
+      "current": 50,
+      "power": 2176
+    },
+    {
+      "Unnamed: 0": 911,
+      "voltage": 10,
+      "current": 50,
+      "power": 492
+    },
+    {
+      "Unnamed: 0": 912,
+      "voltage": 50,
+      "current": 50,
+      "power": 2530
+    },
+    {
+      "Unnamed: 0": 913,
+      "voltage": 80,
+      "current": 50,
+      "power": 4029
+    },
+    {
+      "Unnamed: 0": 914,
+      "voltage": 51,
+      "current": 50,
+      "power": 2555
+    },
+    {
+      "Unnamed: 0": 915,
+      "voltage": 39,
+      "current": 50,
+      "power": 1968
+    },
+    {
+      "Unnamed: 0": 916,
+      "voltage": 92,
+      "current": 50,
+      "power": 4624
+    },
+    {
+      "Unnamed: 0": 917,
+      "voltage": 26,
+      "current": 50,
+      "power": 1328
+    },
+    {
+      "Unnamed: 0": 918,
+      "voltage": 15,
+      "current": 50,
+      "power": 744
+    },
+    {
+      "Unnamed: 0": 919,
+      "voltage": 80,
+      "current": 50,
+      "power": 3974
+    },
+    {
+      "Unnamed: 0": 920,
+      "voltage": 31,
+      "current": 50,
+      "power": 1545
+    },
+    {
+      "Unnamed: 0": 921,
+      "voltage": 74,
+      "current": 50,
+      "power": 3721
+    },
+    {
+      "Unnamed: 0": 922,
+      "voltage": 88,
+      "current": 50,
+      "power": 4409
+    },
+    {
+      "Unnamed: 0": 923,
+      "voltage": 77,
+      "current": 50,
+      "power": 3836
+    },
+    {
+      "Unnamed: 0": 924,
+      "voltage": 28,
+      "current": 50,
+      "power": 1403
+    },
+    {
+      "Unnamed: 0": 925,
+      "voltage": 81,
+      "current": 50,
+      "power": 4067
+    },
+    {
+      "Unnamed: 0": 926,
+      "voltage": 81,
+      "current": 50,
+      "power": 4022
+    },
+    {
+      "Unnamed: 0": 927,
+      "voltage": 15,
+      "current": 50,
+      "power": 748
+    },
+    {
+      "Unnamed: 0": 928,
+      "voltage": 97,
+      "current": 50,
+      "power": 4858
+    },
+    {
+      "Unnamed: 0": 929,
+      "voltage": 73,
+      "current": 50,
+      "power": 3638
+    },
+    {
+      "Unnamed: 0": 930,
+      "voltage": 49,
+      "current": 50,
+      "power": 2454
+    },
+    {
+      "Unnamed: 0": 931,
+      "voltage": 17,
+      "current": 50,
+      "power": 874
+    },
+    {
+      "Unnamed: 0": 932,
+      "voltage": 35,
+      "current": 50,
+      "power": 1754
+    },
+    {
+      "Unnamed: 0": 933,
+      "voltage": 81,
+      "current": 50,
+      "power": 4021
+    },
+    {
+      "Unnamed: 0": 934,
+      "voltage": 35,
+      "current": 50,
+      "power": 1759
+    },
+    {
+      "Unnamed: 0": 935,
+      "voltage": 88,
+      "current": 50,
+      "power": 4383
+    },
+    {
+      "Unnamed: 0": 936,
+      "voltage": 86,
+      "current": 50,
+      "power": 4282
+    },
+    {
+      "Unnamed: 0": 937,
+      "voltage": 59,
+      "current": 50,
+      "power": 2969
+    },
+    {
+      "Unnamed: 0": 938,
+      "voltage": 97,
+      "current": 50,
+      "power": 4860
+    },
+    {
+      "Unnamed: 0": 939,
+      "voltage": 51,
+      "current": 50,
+      "power": 2562
+    },
+    {
+      "Unnamed: 0": 940,
+      "voltage": 16,
+      "current": 50,
+      "power": 789
+    },
+    {
+      "Unnamed: 0": 941,
+      "voltage": 77,
+      "current": 50,
+      "power": 3875
+    },
+    {
+      "Unnamed: 0": 942,
+      "voltage": 11,
+      "current": 50,
+      "power": 1015
+    },
+    {
+      "Unnamed: 0": 943,
+      "voltage": 49,
+      "current": 50,
+      "power": 2469
+    },
+    {
+      "Unnamed: 0": 944,
+      "voltage": 93,
+      "current": 50,
+      "power": 4644
+    },
+    {
+      "Unnamed: 0": 945,
+      "voltage": 62,
+      "current": 50,
+      "power": 3116
+    },
+    {
+      "Unnamed: 0": 946,
+      "voltage": 89,
+      "current": 50,
+      "power": 4475
+    },
+    {
+      "Unnamed: 0": 947,
+      "voltage": 44,
+      "current": 50,
+      "power": 2184
+    },
+    {
+      "Unnamed: 0": 948,
+      "voltage": 33,
+      "current": 50,
+      "power": 1654
+    },
+    {
+      "Unnamed: 0": 949,
+      "voltage": 21,
+      "current": 50,
+      "power": 1051
+    },
+    {
+      "Unnamed: 0": 950,
+      "voltage": 92,
+      "current": 50,
+      "power": 4624
+    },
+    {
+      "Unnamed: 0": 951,
+      "voltage": 53,
+      "current": 50,
+      "power": 2636
+    },
+    {
+      "Unnamed: 0": 952,
+      "voltage": 18,
+      "current": 50,
+      "power": 909
+    },
+    {
+      "Unnamed: 0": 953,
+      "voltage": 11,
+      "current": 50,
+      "power": 579
+    },
+    {
+      "Unnamed: 0": 954,
+      "voltage": 23,
+      "current": 50,
+      "power": 1133
+    },
+    {
+      "Unnamed: 0": 955,
+      "voltage": 44,
+      "current": 50,
+      "power": 2174
+    },
+    {
+      "Unnamed: 0": 956,
+      "voltage": 55,
+      "current": 50,
+      "power": 2775
+    },
+    {
+      "Unnamed: 0": 957,
+      "voltage": 74,
+      "current": 50,
+      "power": 3676
+    },
+    {
+      "Unnamed: 0": 958,
+      "voltage": 25,
+      "current": 50,
+      "power": 1266
+    },
+    {
+      "Unnamed: 0": 959,
+      "voltage": 99,
+      "current": 50,
+      "power": 4976
+    },
+    {
+      "Unnamed: 0": 960,
+      "voltage": 64,
+      "current": 50,
+      "power": 3193
+    },
+    {
+      "Unnamed: 0": 961,
+      "voltage": 79,
+      "current": 50,
+      "power": 3932
+    },
+    {
+      "Unnamed: 0": 962,
+      "voltage": 53,
+      "current": 50,
+      "power": 2623
+    },
+    {
+      "Unnamed: 0": 963,
+      "voltage": 84,
+      "current": 50,
+      "power": 4179
+    },
+    {
+      "Unnamed: 0": 964,
+      "voltage": 18,
+      "current": 50,
+      "power": 910
+    },
+    {
+      "Unnamed: 0": 965,
+      "voltage": 88,
+      "current": 50,
+      "power": 4393
+    },
+    {
+      "Unnamed: 0": 966,
+      "voltage": 42,
+      "current": 50,
+      "power": 2080
+    },
+    {
+      "Unnamed: 0": 967,
+      "voltage": 31,
+      "current": 50,
+      "power": 1534
+    },
+    {
+      "Unnamed: 0": 968,
+      "voltage": 52,
+      "current": 50,
+      "power": 2588
+    },
+    {
+      "Unnamed: 0": 969,
+      "voltage": 39,
+      "current": 50,
+      "power": 1936
+    },
+    {
+      "Unnamed: 0": 970,
+      "voltage": 97,
+      "current": 50,
+      "power": 4875
+    },
+    {
+      "Unnamed: 0": 971,
+      "voltage": 85,
+      "current": 50,
+      "power": 4220
+    },
+    {
+      "Unnamed: 0": 972,
+      "voltage": 74,
+      "current": 50,
+      "power": 3716
+    },
+    {
+      "Unnamed: 0": 973,
+      "voltage": 70,
+      "current": 50,
+      "power": 3528
+    },
+    {
+      "Unnamed: 0": 974,
+      "voltage": 40,
+      "current": 50,
+      "power": 2003
+    },
+    {
+      "Unnamed: 0": 975,
+      "voltage": 26,
+      "current": 50,
+      "power": 1320
+    },
+    {
+      "Unnamed: 0": 976,
+      "voltage": 25,
+      "current": 50,
+      "power": 1271
+    },
+    {
+      "Unnamed: 0": 977,
+      "voltage": 29,
+      "current": 50,
+      "power": 1424
+    },
+    {
+      "Unnamed: 0": 978,
+      "voltage": 13,
+      "current": 50,
+      "power": 659
+    },
+    {
+      "Unnamed: 0": 979,
+      "voltage": 80,
+      "current": 50,
+      "power": 3996
+    },
+    {
+      "Unnamed: 0": 980,
+      "voltage": 74,
+      "current": 50,
+      "power": 3715
+    },
+    {
+      "Unnamed: 0": 981,
+      "voltage": 22,
+      "current": 50,
+      "power": 1076
+    },
+    {
+      "Unnamed: 0": 982,
+      "voltage": 25,
+      "current": 50,
+      "power": 1259
+    },
+    {
+      "Unnamed: 0": 983,
+      "voltage": 97,
+      "current": 50,
+      "power": 4869
+    },
+    {
+      "Unnamed: 0": 984,
+      "voltage": 99,
+      "current": 50,
+      "power": 4955
+    },
+    {
+      "Unnamed: 0": 985,
+      "voltage": 91,
+      "current": 50,
+      "power": 4577
+    },
+    {
+      "Unnamed: 0": 986,
+      "voltage": 79,
+      "current": 50,
+      "power": 3941
+    },
+    {
+      "Unnamed: 0": 987,
+      "voltage": 78,
+      "current": 50,
+      "power": 3923
+    },
+    {
+      "Unnamed: 0": 988,
+      "voltage": 55,
+      "current": 50,
+      "power": 2775
+    },
+    {
+      "Unnamed: 0": 989,
+      "voltage": 74,
+      "current": 50,
+      "power": 3705
+    },
+    {
+      "Unnamed: 0": 990,
+      "voltage": 64,
+      "current": 50,
+      "power": 3180
+    },
+    {
+      "Unnamed: 0": 991,
+      "voltage": 55,
+      "current": 50,
+      "power": 2743
+    },
+    {
+      "Unnamed: 0": 992,
+      "voltage": 36,
+      "current": 50,
+      "power": 1805
+    },
+    {
+      "Unnamed: 0": 993,
+      "voltage": 81,
+      "current": 50,
+      "power": 4051
+    },
+    {
+      "Unnamed: 0": 994,
+      "voltage": 62,
+      "current": 50,
+      "power": 3127
+    },
+    {
+      "Unnamed: 0": 995,
+      "voltage": 66,
+      "current": 50,
+      "power": 3296
+    },
+    {
+      "Unnamed: 0": 996,
+      "voltage": 72,
+      "current": 50,
+      "power": 3571
+    },
+    {
+      "Unnamed: 0": 997,
+      "voltage": 66,
+      "current": 50,
+      "power": 3306
+    },
+    {
+      "Unnamed: 0": 998,
+      "voltage": 89,
+      "current": 50,
+      "power": 4428
+    },
+    {
+      "Unnamed: 0": 999,
+      "voltage": 60,
+      "current": 50,
+      "power": 3013
+    }
+  ],
+  "id": "91dac885-2606-11ee-8c71-e8d8d14963cb"
+}
