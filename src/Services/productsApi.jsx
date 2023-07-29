@@ -16,6 +16,7 @@ export const sendcsvApi = createApi({
             async onQueryStarted(res, { dispatch, queryFulfilled }) {
                 try {
                   const { data } = await queryFulfilled;
+                  console.log(data);
                  dispatch(storeCsvData(data.csv))
                  dispatch(storeML(data.ml))
                 } catch (err) {
