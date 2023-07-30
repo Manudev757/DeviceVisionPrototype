@@ -6,22 +6,22 @@ import { LineChart, Line,Brush, XAxis, YAxis, CartesianGrid, Tooltip, Legend } f
 import Table from './table';
 import ActualTable from './actualTable';
 import Dropdowns from './dropdown';
-import UploadCsv from './uploadCsv';
 import { UploadOutlined } from '@ant-design/icons';
 import { Button, Progress, Upload } from 'antd';
 
 
 function App() {
   
-  const [csvFile, setCsvFile] = useState(null);
   const [actualcsvFile, setActualCsvFile] = useState(null);
   const [actualCsv,actualData] = useActualCsvMutation() || {};
-  const [csvData,{isError,data}] = useCsvDataMutation() || {};
+  const [csvData,{isError,data,isLoading}] = useCsvDataMutation() || {};
     const [percent,setPercent] = useState(0)
+    const [trigger,setTrigger] = useState(false)
     const [loading,setLoading]= useState(false)
     const incrementState =()=>{
         setPercent(prev=>prev+25)
     }
+
   const handleCustomRequest = ({ file,onError,onSuccess}) => { 
     setLoading(true) 
     setPercent(0)
@@ -61,21 +61,23 @@ function App() {
     <>
       <div>
       <div style={{width:"300px"}}>
-      <Upload customRequest={handleCustomRequest}>
+      <Upload customRequest={handleCustomRequest} accept='.csv'>
     <Button icon={<UploadOutlined />}>Click to Upload</Button>
       { loading && <Progress percent={percent}  />}
       {isError && <div>Error</div>}
   </Upload>
-  
   </div>
+       <br></br>  
        <br></br>
-       <br></br>
-       {/* {isLoading && <h3>Loading..</h3>}
-       {isError && <h3>404 Not Found</h3>} */}
+       {isLoading && <h3>Loading..</h3>}
+       {isError && <h3>404 Not Found</h3>}
        {data && <h3>Ideal Dataset uploaded Successfully!</h3>}
+       <button onClick={()=>setTrigger(!trigger)}>Show Preview</button>
       </div>
+      <br></br>
+      <br></br>
       {
-        data && 
+        trigger && 
        
       <>
        <div style={{display:"flex",justifyContent:"space-evenly",alignItems:"center"}}>
